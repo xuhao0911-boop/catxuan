@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "CatXuan",
+    "slug": "catxuan",
+    "scheme": "catxuan",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.catxuan.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#245D44",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false,
+      "package": "com.catxuan.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "output": "single"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "选择猫咪照片进行本地外观识别",
+          "cameraPermission": "拍摄猫咪照片进行本地外观识别",
+          "microphonePermission": false
+        }
+      ],
+      "expo-font",
+      "expo-splash-screen",
+      "expo-asset",
+      "expo-sharing"
+    ]
+  }
+}

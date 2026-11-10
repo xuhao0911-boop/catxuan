@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-09",
+  "version": "0.1.0-local-stable",
+  "entries": 48,
+  "illustratedAppearances": 72,
+  "changes": [
+    "Reject inherited object properties as breed IDs",
+    "Preserve image MIME type",
+    "Dispose a model loaded after recognition timeout"
+  ],
+  "checks": {
+    "typecheck": "passed",
+    "lint": "passed",
+    "automatedTests": 14,
+    "browserAssertions": 65,
+    "webExport": "passed",
+    "sharePng": [
+      1080,
+      1440
+    ],
+    "localModelHash": "verified"
+  },
+  "browser": {
+    "version": "0.1.0",
+    "count": 59,
+    "passed": [
+      "Four functional navigation tabs",
+      "No hearts on catalogue cards",
+      "No colour counts on catalogue cards",
+      "Centered name and size only",
+      "Alias and colour search",
+      "Coat form search",
+      "Search empty state and reset",
+      "Size filter adapted to cats",
+      "Household types remain separate from pedigree profiles",
+      "Selected cat colour has matching artwork",
+      "Cat sources replace dog registries",
+      "PNG sharing card downloads",
+      "Long/short coat changes artwork",
+      "Care guide uses honest qualitative cat tags",
+      "Cat favourites persist",
+      "Cat storage does not overwrite dog records",
+      "Comparison stays limited to three",
+      "Comparison shows feline activity and companionship",
+      "Quiz requires an answer",
+      "Cat questionnaire returns explainable candidates",
+      "No dog rules or invented match percentage",
+      "Cat quiz choices survive reload",
+      "Recommendation cards carry cat quiz context",
+      "Photo recognition states supported feline scope",
+      "Correction receives real server acknowledgement",
+      "Feedback history is retained",
+      "Offline report stays pending",
+      "Pending report can retry",
+      "No overflow 360 /",
+      "No overflow 360 /breed/british-shorthair",
+      "No overflow 360 /match",
+      "No overflow 360 /share/ragdoll",
+      "No overflow 360 /recognize",
+      "No overflow 360 /compare",
+      "No overflow 390 /",
+      "No overflow 390 /breed/british-shorthair",
+      "No overflow 390 /match",
+      "No overflow 390 /share/ragdoll",
+      "No overflow 390 /recognize",
+      "No overflow 390 /compare",
+      "No overflow 430 /",
+      "No overflow 430 /breed/british-shorthair",
+      "No overflow 430 /match",
+      "No overflow 430 /share/ragdoll",
+      "No overflow 430 /recognize",
+      "No overflow 430 /compare",
+      "No overflow 480 /",
+      "No overflow 480 /breed/british-shorthair",
+      "No overflow 480 /match",
+      "No overflow 480 /share/ragdoll",
+      "No overflow 480 /recognize",
+      "No overflow 480 /compare",
+      "No overflow 1200 /",
+      "No overflow 1200 /breed/british-shorthair",
+      "No overflow 1200 /match",
+      "No overflow 1200 /share/ragdoll",
+      "No overflow 1200 /recognize",
+      "No overflow 1200 /compare",
+      "No page script errors"
+    ]
+  },
+  "recognition": {
+    "externalRequests": 0,
+    "result": "识别\n\n拍照\n\n相册\n\n重新识别\n移除照片\n外观参考\n波斯猫\n查看图鉴\n1\n\n照片不上传\n模型随应用提供，仅识别基础外观类别，不能确认血统。\n\n\n图鉴\n\n\n识别\n\n\n对比\n\n\n收藏"
+  },
+  "regression": {
+    "passed": [
+      "Dog photo is not identified as a cat",
+      "Recognition cancels",
+      "Leaving recognition clears the photo",
+      "Invalid breed and share links show empty states without crashing",
+      "No page errors; homepage images loaded"
+    ],
+    "errors": []
+  },
+  "limits": [
+    "Recognition supports only a few coarse cat appearances, not all 48 breeds or pedigree verification",
+    "Existing colour and coat examples are not an exhaustive registry",
+    "Local Web app; no signed APK/IPA or physical-device sharing verification"
+  ]
+}

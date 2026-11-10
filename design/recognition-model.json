@@ -1,0 +1,11 @@
+{
+  "engine": "TensorFlow.js 4.22.0",
+  "model": "MobileNet v1 0.25 224",
+  "labels": 1000,
+  "modelSource": "https://storage.googleapis.com/tfjs-models/tfjs/mobilenet_v1_0.25_224/model.json",
+  "scriptSource": "https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@4.22.0/dist/tf.min.js",
+  "license": "Apache-2.0",
+  "weightBytes": 1902176,
+  "weightSha256": "eb49857447f6089e7e392f7991f3f4fdce1936efaf83d535f5eb8aaba9538e0b",
+  "runtimeNetworkRequired": false
+}

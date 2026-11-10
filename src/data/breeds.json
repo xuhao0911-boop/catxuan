@@ -1,0 +1,4302 @@
+[
+  {
+    "id": "british-shorthair",
+    "name": "英国短毛猫",
+    "en": "British Shorthair",
+    "aliases": [
+      "英短",
+      "蓝猫"
+    ],
+    "origin": "英国",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "短毛",
+    "coats": [
+      "短毛"
+    ],
+    "tags": [
+      "适中",
+      "较独立",
+      "短毛"
+    ],
+    "description": "结实圆润的身体、饱满脸颊和浓密短毛，是最容易辨认的特征。通常沉稳随和，喜欢陪在身边，也需要保留自己的休息空间。",
+    "appearance": "结实圆润的身体、饱满脸颊和浓密短毛，是最容易辨认的特征。",
+    "temperament": "通常沉稳随和，喜欢陪在身边，也需要保留自己的休息空间。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。适合规律互动与安静休息并存的家庭，不以是否爱被抱来判断亲近程度。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "适合规律互动与安静休息并存的家庭，不以是否爱被抱来判断亲近程度。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "适中",
+    "groomingLevel": "较低",
+    "sheddingLevel": "正常",
+    "social": "较独立",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/british-shorthair/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/british-shorthair/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "blue",
+        "name": "蓝色",
+        "en": "blue",
+        "swatches": [
+          "#7B8796"
+        ],
+        "source": "https://cfa.org/breed/british-shorthair/",
+        "kind": "已绘外观示例"
+      },
+      {
+        "id": "cream",
+        "name": "乳色",
+        "en": "cream",
+        "swatches": [
+          "#EBD7B2"
+        ],
+        "source": "https://cfa.org/breed/british-shorthair/",
+        "kind": "已绘外观示例"
+      },
+      {
+        "id": "silver-shaded",
+        "name": "银渐层",
+        "en": "silver shaded",
+        "swatches": [
+          "#EAEAE5",
+          "#90948F"
+        ],
+        "source": "https://cfa.org/breed/british-shorthair/",
+        "kind": "已绘外观示例"
+      },
+      {
+        "id": "golden-shaded",
+        "name": "金渐层",
+        "en": "golden shaded",
+        "swatches": [
+          "#DBB875",
+          "#69523A"
+        ],
+        "source": "https://cfa.org/breed/british-shorthair/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/british-shorthair/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。适合规律互动与安静休息并存的家庭，不以是否爱被抱来判断亲近程度。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型"
+    ]
+  },
+  {
+    "id": "american-shorthair",
+    "name": "美国短毛猫",
+    "en": "American Shorthair",
+    "aliases": [
+      "美短",
+      "银虎斑"
+    ],
+    "origin": "美国",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "短毛",
+    "coats": [
+      "短毛"
+    ],
+    "tags": [
+      "适中",
+      "随和",
+      "短毛"
+    ],
+    "description": "体格匀称强健，短毛贴合身体；经典虎斑的旋涡纹是常见外观。好奇、随和，通常愿意玩耍，也能安静休息。",
+    "appearance": "体格匀称强健，短毛贴合身体；经典虎斑的旋涡纹是常见外观。",
+    "temperament": "好奇、随和，通常愿意玩耍，也能安静休息。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。准备抓挠和探索设施，按个体体况安排饮食与游戏。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "准备抓挠和探索设施，按个体体况安排饮食与游戏。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "适中",
+    "groomingLevel": "较低",
+    "sheddingLevel": "正常",
+    "social": "随和",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/american-shorthair/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/american-shorthair/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "silver-tabby",
+        "name": "银虎斑",
+        "en": "silver tabby",
+        "swatches": [
+          "#D6D9D8",
+          "#3F4244"
+        ],
+        "source": "https://cfa.org/breed/american-shorthair/",
+        "kind": "已绘外观示例"
+      },
+      {
+        "id": "brown-tabby",
+        "name": "棕虎斑",
+        "en": "brown tabby",
+        "swatches": [
+          "#997553",
+          "#332D27"
+        ],
+        "source": "https://cfa.org/breed/american-shorthair/",
+        "kind": "已绘外观示例"
+      },
+      {
+        "id": "red-tabby",
+        "name": "红虎斑",
+        "en": "red tabby",
+        "swatches": [
+          "#CA8B43",
+          "#9A5C2C"
+        ],
+        "source": "https://cfa.org/breed/american-shorthair/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/american-shorthair/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。准备抓挠和探索设施，按个体体况安排饮食与游戏。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型"
+    ]
+  },
+  {
+    "id": "ragdoll",
+    "name": "布偶猫",
+    "en": "Ragdoll",
+    "aliases": [
+      "布偶",
+      "双色布偶"
+    ],
+    "origin": "美国",
+    "size": "大型",
+    "sizes": [
+      "大型"
+    ],
+    "coat": "长毛",
+    "coats": [
+      "长毛"
+    ],
+    "tags": [
+      "较低",
+      "亲人",
+      "长毛"
+    ],
+    "description": "蓝眼睛、柔顺半长毛和较大的身形很有辨识度，常见重点色、双色与手套外观。通常温和亲人，喜欢与家人待在一起；个体也会有自己的互动界限。",
+    "appearance": "蓝眼睛、柔顺半长毛和较大的身形很有辨识度，常见重点色、双色与手套外观。",
+    "temperament": "通常温和亲人，喜欢与家人待在一起；个体也会有自己的互动界限。",
+    "care": "规律梳理，重点检查腋下、腹部和腿后的打结。梳理时检查腋下和腹部打结，准备足够大的猫砂盆。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "梳理时检查腋下和腹部打结，准备足够大的猫砂盆。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "较低",
+    "groomingLevel": "常规",
+    "sheddingLevel": "正常",
+    "social": "亲人",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/ragdoll/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/ragdoll/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "seal-bicolor",
+        "name": "海豹双色",
+        "en": "seal bicolor",
+        "swatches": [
+          "#EEE8DD",
+          "#614A3C"
+        ],
+        "source": "https://cfa.org/breed/ragdoll/",
+        "kind": "已绘外观示例"
+      },
+      {
+        "id": "blue-bicolor",
+        "name": "蓝双色",
+        "en": "blue bicolor",
+        "swatches": [
+          "#EEE8DD",
+          "#8994A1"
+        ],
+        "source": "https://cfa.org/breed/ragdoll/",
+        "kind": "已绘外观示例"
+      },
+      {
+        "id": "seal-mitted",
+        "name": "海豹手套色",
+        "en": "seal mitted",
+        "swatches": [
+          "#E8DECA",
+          "#604A3B",
+          "#FFFFFF"
+        ],
+        "source": "https://cfa.org/breed/ragdoll/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "long",
+        "name": "长毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/ragdoll/",
+        "profile": {
+          "coat": "长毛",
+          "coatNote": "此示例为长毛外观，注意颈毛、尾毛及容易打结的部位。",
+          "care": "规律梳理，重点检查腋下、腹部和腿后的打结。梳理时检查腋下和腹部打结，准备足够大的猫砂盆。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "长毛型"
+    ]
+  },
+  {
+    "id": "maine-coon",
+    "name": "缅因猫",
+    "en": "Maine Coon",
+    "aliases": [
+      "缅因",
+      "缅因库恩"
+    ],
+    "origin": "美国",
+    "size": "大型",
+    "sizes": [
+      "大型"
+    ],
+    "coat": "长毛",
+    "coats": [
+      "长毛"
+    ],
+    "tags": [
+      "适中",
+      "亲人",
+      "长毛"
+    ],
+    "description": "长而强健的身体、方形口鼻、耳尖毛和蓬松长尾构成鲜明轮廓。往往友善好奇，乐于参与家庭活动，喜欢互动游戏。",
+    "appearance": "长而强健的身体、方形口鼻、耳尖毛和蓬松长尾构成鲜明轮廓。",
+    "temperament": "往往友善好奇，乐于参与家庭活动，喜欢互动游戏。",
+    "care": "规律梳理，重点检查腋下、腹部和腿后的打结。攀爬架和猫砂盆应稳固宽敞，长尾与胸前被毛需要定期梳理。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "攀爬架和猫砂盆应稳固宽敞，长尾与胸前被毛需要定期梳理。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "适中",
+    "groomingLevel": "常规",
+    "sheddingLevel": "较多",
+    "social": "亲人",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/maine-coon-cat/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/maine-coon-cat/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "brown-tabby",
+        "name": "棕虎斑",
+        "en": "brown tabby",
+        "swatches": [
+          "#997553",
+          "#332D27"
+        ],
+        "source": "https://cfa.org/breed/maine-coon-cat/",
+        "kind": "已绘外观示例"
+      },
+      {
+        "id": "black-smoke",
+        "name": "黑烟色",
+        "en": "black smoke",
+        "swatches": [
+          "#303136",
+          "#AAAEB4"
+        ],
+        "source": "https://cfa.org/breed/maine-coon-cat/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "long",
+        "name": "长毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/maine-coon-cat/",
+        "profile": {
+          "coat": "长毛",
+          "coatNote": "此示例为长毛外观，注意颈毛、尾毛及容易打结的部位。",
+          "care": "规律梳理，重点检查腋下、腹部和腿后的打结。攀爬架和猫砂盆应稳固宽敞，长尾与胸前被毛需要定期梳理。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "长毛型"
+    ]
+  },
+  {
+    "id": "persian",
+    "name": "波斯猫",
+    "en": "Persian",
+    "aliases": [
+      "波斯",
+      "长毛猫"
+    ],
+    "origin": "品种发展于英国",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "长毛",
+    "coats": [
+      "长毛"
+    ],
+    "tags": [
+      "较低",
+      "亲人",
+      "长毛"
+    ],
+    "description": "圆头、较小的耳朵与丰厚长毛形成柔软轮廓，身形紧凑结实。通常偏安静，喜欢稳定的生活节奏和温和互动。",
+    "appearance": "圆头、较小的耳朵与丰厚长毛形成柔软轮廓，身形紧凑结实。",
+    "temperament": "通常偏安静，喜欢稳定的生活节奏和温和互动。",
+    "care": "规律梳理，重点检查腋下、腹部和腿后的打结。长毛需要细致梳理；关注眼周清洁、呼吸和采食状态，有异常及时就医。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "长毛需要细致梳理；关注眼周清洁、呼吸和采食状态，有异常及时就医。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "较低",
+    "groomingLevel": "较高",
+    "sheddingLevel": "较多",
+    "social": "亲人",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/persian/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/persian/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "white",
+        "name": "白色",
+        "en": "white",
+        "swatches": [
+          "#F4F1E8"
+        ],
+        "source": "https://cfa.org/breed/persian/",
+        "kind": "已绘外观示例"
+      },
+      {
+        "id": "blue",
+        "name": "蓝色",
+        "en": "blue",
+        "swatches": [
+          "#7B8796"
+        ],
+        "source": "https://cfa.org/breed/persian/",
+        "kind": "已绘外观示例"
+      },
+      {
+        "id": "red-tabby",
+        "name": "红虎斑",
+        "en": "red tabby",
+        "swatches": [
+          "#CA8B43",
+          "#9A5C2C"
+        ],
+        "source": "https://cfa.org/breed/persian/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "long",
+        "name": "长毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/persian/",
+        "profile": {
+          "coat": "长毛",
+          "coatNote": "此示例为长毛外观，注意颈毛、尾毛及容易打结的部位。",
+          "care": "规律梳理，重点检查腋下、腹部和腿后的打结。长毛需要细致梳理；关注眼周清洁、呼吸和采食状态，有异常及时就医。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "长毛型"
+    ]
+  },
+  {
+    "id": "siamese",
+    "name": "暹罗猫",
+    "en": "Siamese",
+    "aliases": [
+      "暹罗",
+      "重点色"
+    ],
+    "origin": "泰国",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "短毛",
+    "coats": [
+      "短毛"
+    ],
+    "tags": [
+      "较高",
+      "需陪伴",
+      "短毛"
+    ],
+    "description": "修长身体、大耳朵、蓝眼睛与脸部、耳朵、四肢、尾巴的重点色很突出。活跃爱互动，常用声音与人交流，需要较多参与感。",
+    "appearance": "修长身体、大耳朵、蓝眼睛与脸部、耳朵、四肢、尾巴的重点色很突出。",
+    "temperament": "活跃爱互动，常用声音与人交流，需要较多参与感。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。安排每日游戏、探索和陪伴，逐步适应独处时间。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "安排每日游戏、探索和陪伴，逐步适应独处时间。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "较高",
+    "groomingLevel": "较低",
+    "sheddingLevel": "正常",
+    "social": "需陪伴",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/siamese/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/siamese/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "seal-point",
+        "name": "海豹重点色",
+        "en": "seal point",
+        "swatches": [
+          "#D9C9AF",
+          "#4D362C"
+        ],
+        "source": "https://cfa.org/breed/siamese/",
+        "kind": "已绘外观示例"
+      },
+      {
+        "id": "blue-point",
+        "name": "蓝重点色",
+        "en": "blue point",
+        "swatches": [
+          "#E9E1CF",
+          "#7D8897"
+        ],
+        "source": "https://cfa.org/breed/siamese/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/siamese/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。安排每日游戏、探索和陪伴，逐步适应独处时间。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型"
+    ]
+  },
+  {
+    "id": "bengal",
+    "name": "孟加拉猫",
+    "en": "Bengal",
+    "aliases": [
+      "豹猫",
+      "孟加拉豹猫"
+    ],
+    "origin": "美国",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "短毛",
+    "coats": [
+      "短毛"
+    ],
+    "tags": [
+      "较高",
+      "需陪伴",
+      "短毛"
+    ],
+    "description": "运动感强的身体与玫瑰斑或云石纹短毛是代表外观。好奇活跃，喜欢攀爬、追逐与需要动脑的游戏。",
+    "appearance": "运动感强的身体与玫瑰斑或云石纹短毛是代表外观。",
+    "temperament": "好奇活跃，喜欢攀爬、追逐与需要动脑的游戏。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。提供牢固的垂直空间和足够互动；本条目指家养品种，不指野生豹猫。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "提供牢固的垂直空间和足够互动；本条目指家养品种，不指野生豹猫。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "较高",
+    "groomingLevel": "较低",
+    "sheddingLevel": "正常",
+    "social": "需陪伴",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/bengal/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/bengal/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "brown-spotted",
+        "name": "棕色斑点",
+        "en": "brown spotted",
+        "swatches": [
+          "#C59A61",
+          "#342B23"
+        ],
+        "source": "https://cfa.org/breed/bengal/",
+        "kind": "已绘外观示例"
+      },
+      {
+        "id": "silver-spotted",
+        "name": "银色斑点",
+        "en": "silver spotted",
+        "swatches": [
+          "#CED1CF",
+          "#343637"
+        ],
+        "source": "https://cfa.org/breed/bengal/",
+        "kind": "已绘外观示例"
+      },
+      {
+        "id": "brown-marbled",
+        "name": "棕云石纹",
+        "en": "brown marbled",
+        "swatches": [
+          "#C29760",
+          "#3B3024"
+        ],
+        "source": "https://cfa.org/breed/bengal/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/bengal/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。提供牢固的垂直空间和足够互动；本条目指家养品种，不指野生豹猫。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型"
+    ]
+  },
+  {
+    "id": "russian-blue",
+    "name": "俄罗斯蓝猫",
+    "en": "Russian Blue",
+    "aliases": [
+      "俄蓝",
+      "俄罗斯蓝"
+    ],
+    "origin": "俄罗斯",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "短毛",
+    "coats": [
+      "短毛"
+    ],
+    "tags": [
+      "适中",
+      "较独立",
+      "短毛"
+    ],
+    "description": "细密蓝灰被毛带银色光泽，配合绿色眼睛与楔形头部。往往谨慎温和，熟悉环境后会与家人建立稳定联系。",
+    "appearance": "细密蓝灰被毛带银色光泽，配合绿色眼睛与楔形头部。",
+    "temperament": "往往谨慎温和，熟悉环境后会与家人建立稳定联系。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。保持安静的安全休息处，给新环境适应留出时间。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "保持安静的安全休息处，给新环境适应留出时间。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "适中",
+    "groomingLevel": "较低",
+    "sheddingLevel": "正常",
+    "social": "较独立",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/russian-blue/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/russian-blue/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "blue",
+        "name": "蓝色",
+        "en": "blue",
+        "swatches": [
+          "#7B8796"
+        ],
+        "source": "https://cfa.org/breed/russian-blue/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/russian-blue/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。保持安静的安全休息处，给新环境适应留出时间。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型"
+    ]
+  },
+  {
+    "id": "norwegian-forest",
+    "name": "挪威森林猫",
+    "en": "Norwegian Forest Cat",
+    "aliases": [
+      "挪森",
+      "森林猫"
+    ],
+    "origin": "挪威",
+    "size": "大型",
+    "sizes": [
+      "大型"
+    ],
+    "coat": "长毛",
+    "coats": [
+      "长毛"
+    ],
+    "tags": [
+      "适中",
+      "随和",
+      "长毛"
+    ],
+    "description": "三角形头部、结实身体、防护性被毛和浓密长尾形成自然外观。通常独立又友好，喜欢观察环境和攀爬。",
+    "appearance": "三角形头部、结实身体、防护性被毛和浓密长尾形成自然外观。",
+    "temperament": "通常独立又友好，喜欢观察环境和攀爬。",
+    "care": "规律梳理，重点检查腋下、腹部和腿后的打结。换毛期增加梳理，选择承重可靠的高处休息平台。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "换毛期增加梳理，选择承重可靠的高处休息平台。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "适中",
+    "groomingLevel": "常规",
+    "sheddingLevel": "较多",
+    "social": "随和",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/norwegian-forest-cat/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/norwegian-forest-cat/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "brown-white",
+        "name": "棕虎斑加白",
+        "en": "brown white",
+        "swatches": [
+          "#94704D",
+          "#39302A",
+          "#F8F6EF"
+        ],
+        "source": "https://cfa.org/breed/norwegian-forest-cat/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "long",
+        "name": "长毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/norwegian-forest-cat/",
+        "profile": {
+          "coat": "长毛",
+          "coatNote": "此示例为长毛外观，注意颈毛、尾毛及容易打结的部位。",
+          "care": "规律梳理，重点检查腋下、腹部和腿后的打结。换毛期增加梳理，选择承重可靠的高处休息平台。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "长毛型"
+    ]
+  },
+  {
+    "id": "siberian",
+    "name": "西伯利亚猫",
+    "en": "Siberian",
+    "aliases": [
+      "西森",
+      "西伯利亚森林猫"
+    ],
+    "origin": "俄罗斯",
+    "size": "大型",
+    "sizes": [
+      "大型"
+    ],
+    "coat": "长毛",
+    "coats": [
+      "长毛"
+    ],
+    "tags": [
+      "适中",
+      "亲人",
+      "长毛"
+    ],
+    "description": "结实有力的身体、圆润轮廓与厚实被毛，常见多种毛色和花纹。通常亲人、好奇，愿意参与互动和探索。",
+    "appearance": "结实有力的身体、圆润轮廓与厚实被毛，常见多种毛色和花纹。",
+    "temperament": "通常亲人、好奇，愿意参与互动和探索。",
+    "care": "规律梳理，重点检查腋下、腹部和腿后的打结。定期检查厚密被毛打结；不把任何品种当作不过敏的保证。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "定期检查厚密被毛打结；不把任何品种当作不过敏的保证。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "适中",
+    "groomingLevel": "常规",
+    "sheddingLevel": "较多",
+    "social": "亲人",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/siberian/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/siberian/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "brown-tabby",
+        "name": "棕虎斑",
+        "en": "brown tabby",
+        "swatches": [
+          "#997553",
+          "#332D27"
+        ],
+        "source": "https://cfa.org/breed/siberian/",
+        "kind": "已绘外观示例"
+      },
+      {
+        "id": "seal-point",
+        "name": "海豹重点色",
+        "en": "seal point",
+        "swatches": [
+          "#D9C9AF",
+          "#4D362C"
+        ],
+        "source": "https://cfa.org/breed/siberian/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "long",
+        "name": "长毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/siberian/",
+        "profile": {
+          "coat": "长毛",
+          "coatNote": "此示例为长毛外观，注意颈毛、尾毛及容易打结的部位。",
+          "care": "规律梳理，重点检查腋下、腹部和腿后的打结。定期检查厚密被毛打结；不把任何品种当作不过敏的保证。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "长毛型"
+    ]
+  },
+  {
+    "id": "birman",
+    "name": "伯曼猫",
+    "en": "Birman",
+    "aliases": [
+      "缅甸圣猫",
+      "伯曼"
+    ],
+    "origin": "法国发展",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "长毛",
+    "coats": [
+      "长毛"
+    ],
+    "tags": [
+      "适中",
+      "亲人",
+      "长毛"
+    ],
+    "description": "蓝眼睛、柔顺重点色被毛与四只白色手套脚是典型特征。通常温柔随和，愿意与人相伴，喜欢不过于粗烈的游戏。",
+    "appearance": "蓝眼睛、柔顺重点色被毛与四只白色手套脚是典型特征。",
+    "temperament": "通常温柔随和，愿意与人相伴，喜欢不过于粗烈的游戏。",
+    "care": "规律梳理，重点检查腋下、腹部和腿后的打结。轻柔梳理胸前与腿后的长毛，提供稳定的陪伴。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "轻柔梳理胸前与腿后的长毛，提供稳定的陪伴。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "适中",
+    "groomingLevel": "常规",
+    "sheddingLevel": "正常",
+    "social": "亲人",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/birman/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/birman/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "seal-point",
+        "name": "海豹重点色",
+        "en": "seal point",
+        "swatches": [
+          "#D9C9AF",
+          "#4D362C"
+        ],
+        "source": "https://cfa.org/breed/birman/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "long",
+        "name": "长毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/birman/",
+        "profile": {
+          "coat": "长毛",
+          "coatNote": "此示例为长毛外观，注意颈毛、尾毛及容易打结的部位。",
+          "care": "规律梳理，重点检查腋下、腹部和腿后的打结。轻柔梳理胸前与腿后的长毛，提供稳定的陪伴。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "长毛型"
+    ]
+  },
+  {
+    "id": "exotic-shorthair",
+    "name": "异国短毛猫",
+    "en": "Exotic Shorthair",
+    "aliases": [
+      "加菲猫",
+      "异短"
+    ],
+    "origin": "美国",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "短毛",
+    "coats": [
+      "短毛"
+    ],
+    "tags": [
+      "较低",
+      "亲人",
+      "短毛"
+    ],
+    "description": "浓密短毛、圆脸和紧凑身体，整体轮廓与波斯猫家族相近。通常安静亲人，也会主动参加短时间游戏。",
+    "appearance": "浓密短毛、圆脸和紧凑身体，整体轮廓与波斯猫家族相近。",
+    "temperament": "通常安静亲人，也会主动参加短时间游戏。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。定期梳理浓密短毛，观察眼周、呼吸和采食情况。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "定期梳理浓密短毛，观察眼周、呼吸和采食情况。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "较低",
+    "groomingLevel": "常规",
+    "sheddingLevel": "正常",
+    "social": "亲人",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/exotic/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/exotic/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "cream",
+        "name": "乳色",
+        "en": "cream",
+        "swatches": [
+          "#EBD7B2"
+        ],
+        "source": "https://cfa.org/breed/exotic/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/exotic/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。定期梳理浓密短毛，观察眼周、呼吸和采食情况。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型"
+    ]
+  },
+  {
+    "id": "abyssinian",
+    "name": "阿比西尼亚猫",
+    "en": "Abyssinian",
+    "aliases": [
+      "阿比",
+      "阿比猫"
+    ],
+    "origin": "品种发展于英国",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "短毛",
+    "coats": [
+      "短毛"
+    ],
+    "tags": [
+      "较高",
+      "需陪伴",
+      "短毛"
+    ],
+    "description": "纤细有力的身体、大耳朵与细腻的多段色毛形成不带明显条纹的外观。十分好奇，喜欢探索高处、研究物件并参与人的活动。",
+    "appearance": "纤细有力的身体、大耳朵与细腻的多段色毛形成不带明显条纹的外观。",
+    "temperament": "十分好奇，喜欢探索高处、研究物件并参与人的活动。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。安排攀爬、益智和追逐游戏，妥善收纳容易被探索的小物件。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "安排攀爬、益智和追逐游戏，妥善收纳容易被探索的小物件。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "较高",
+    "groomingLevel": "较低",
+    "sheddingLevel": "正常",
+    "social": "需陪伴",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/abyssinian/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/abyssinian/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "ruddy",
+        "name": "红棕多段色",
+        "en": "ruddy",
+        "swatches": [
+          "#B77E48",
+          "#4E3628"
+        ],
+        "source": "https://cfa.org/breed/abyssinian/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/abyssinian/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。安排攀爬、益智和追逐游戏，妥善收纳容易被探索的小物件。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型"
+    ]
+  },
+  {
+    "id": "somali",
+    "name": "索马里猫",
+    "en": "Somali",
+    "aliases": [
+      "索马里",
+      "长毛阿比"
+    ],
+    "origin": "美国品种发展",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "长毛",
+    "coats": [
+      "长毛"
+    ],
+    "tags": [
+      "较高",
+      "需陪伴",
+      "长毛"
+    ],
+    "description": "多段色半长毛、明显颈毛与蓬松长尾，常给人小狐狸般的印象。活跃聪明，喜欢互动与探索，需要丰富的环境。",
+    "appearance": "多段色半长毛、明显颈毛与蓬松长尾，常给人小狐狸般的印象。",
+    "temperament": "活跃聪明，喜欢互动与探索，需要丰富的环境。",
+    "care": "规律梳理，重点检查腋下、腹部和腿后的打结。温和梳理尾巴和颈毛，轮换玩具保持探索兴趣。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "温和梳理尾巴和颈毛，轮换玩具保持探索兴趣。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "较高",
+    "groomingLevel": "常规",
+    "sheddingLevel": "正常",
+    "social": "需陪伴",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/somali/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/somali/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "ruddy",
+        "name": "红棕多段色",
+        "en": "ruddy",
+        "swatches": [
+          "#B77E48",
+          "#4E3628"
+        ],
+        "source": "https://cfa.org/breed/somali/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "long",
+        "name": "长毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/somali/",
+        "profile": {
+          "coat": "长毛",
+          "coatNote": "此示例为长毛外观，注意颈毛、尾毛及容易打结的部位。",
+          "care": "规律梳理，重点检查腋下、腹部和腿后的打结。温和梳理尾巴和颈毛，轮换玩具保持探索兴趣。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "长毛型"
+    ]
+  },
+  {
+    "id": "bombay",
+    "name": "孟买猫",
+    "en": "Bombay",
+    "aliases": [
+      "孟买",
+      "黑猫"
+    ],
+    "origin": "美国",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "短毛",
+    "coats": [
+      "短毛"
+    ],
+    "tags": [
+      "适中",
+      "亲人",
+      "短毛"
+    ],
+    "description": "乌黑有光泽的短毛、圆铜色眼睛与结实身体构成小黑豹般的外观。通常亲人好奇，愿意参与家庭活动。",
+    "appearance": "乌黑有光泽的短毛、圆铜色眼睛与结实身体构成小黑豹般的外观。",
+    "temperament": "通常亲人好奇，愿意参与家庭活动。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。提供每日游戏和陪伴；黑色家猫不因此自动属于孟买品种。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "提供每日游戏和陪伴；黑色家猫不因此自动属于孟买品种。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "适中",
+    "groomingLevel": "较低",
+    "sheddingLevel": "正常",
+    "social": "亲人",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/bombay/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/bombay/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "black",
+        "name": "黑色",
+        "en": "black",
+        "swatches": [
+          "#282A2B"
+        ],
+        "source": "https://cfa.org/breed/bombay/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/bombay/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。提供每日游戏和陪伴；黑色家猫不因此自动属于孟买品种。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型"
+    ]
+  },
+  {
+    "id": "burmese",
+    "name": "缅甸猫",
+    "en": "Burmese",
+    "aliases": [
+      "缅甸",
+      "美缅"
+    ],
+    "origin": "缅甸及美国品种发展",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "短毛",
+    "coats": [
+      "短毛"
+    ],
+    "tags": [
+      "适中",
+      "需陪伴",
+      "短毛"
+    ],
+    "description": "紧凑而有分量的身体，短毛细滑，代表性的暖褐色很有层次。通常热情亲人，喜欢人的关注和互动。",
+    "appearance": "紧凑而有分量的身体，短毛细滑，代表性的暖褐色很有层次。",
+    "temperament": "通常热情亲人，喜欢人的关注和互动。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。安排持续的陪伴与游戏，留意体况和精力变化。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "安排持续的陪伴与游戏，留意体况和精力变化。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "适中",
+    "groomingLevel": "较低",
+    "sheddingLevel": "正常",
+    "social": "需陪伴",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/burmese/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/burmese/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "sable",
+        "name": "深褐色",
+        "en": "sable",
+        "swatches": [
+          "#5C4132"
+        ],
+        "source": "https://cfa.org/breed/burmese/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/burmese/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。安排持续的陪伴与游戏，留意体况和精力变化。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型"
+    ]
+  },
+  {
+    "id": "burmilla",
+    "name": "波米拉猫",
+    "en": "Burmilla",
+    "aliases": [
+      "波米拉",
+      "博美拉"
+    ],
+    "origin": "英国",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "短毛",
+    "coats": [
+      "短毛"
+    ],
+    "tags": [
+      "适中",
+      "亲人",
+      "短毛"
+    ],
+    "description": "银色底毛配合细致毛尖色，眼周轮廓明显，体形匀称。多为温和好奇，能在游戏与安静相伴之间取得平衡。",
+    "appearance": "银色底毛配合细致毛尖色，眼周轮廓明显，体形匀称。",
+    "temperament": "多为温和好奇，能在游戏与安静相伴之间取得平衡。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。轻柔梳理细密被毛，逐步建立清洁和触摸习惯。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "轻柔梳理细密被毛，逐步建立清洁和触摸习惯。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "适中",
+    "groomingLevel": "常规",
+    "sheddingLevel": "正常",
+    "social": "亲人",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/burmilla/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/burmilla/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "silver-shaded",
+        "name": "银渐层",
+        "en": "silver shaded",
+        "swatches": [
+          "#EAEAE5",
+          "#90948F"
+        ],
+        "source": "https://cfa.org/breed/burmilla/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/burmilla/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。轻柔梳理细密被毛，逐步建立清洁和触摸习惯。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型"
+    ]
+  },
+  {
+    "id": "chartreux",
+    "name": "沙特尔猫",
+    "en": "Chartreux",
+    "aliases": [
+      "沙特勒",
+      "法国蓝猫"
+    ],
+    "origin": "法国",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "短毛",
+    "coats": [
+      "短毛"
+    ],
+    "tags": [
+      "适中",
+      "较独立",
+      "短毛"
+    ],
+    "description": "结实肩部、蓝灰色羊毛般的短毛与金铜色眼睛很醒目。通常安静敏锐，喜欢观察，熟悉家人后很亲近。",
+    "appearance": "结实肩部、蓝灰色羊毛般的短毛与金铜色眼睛很醒目。",
+    "temperament": "通常安静敏锐，喜欢观察，熟悉家人后很亲近。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。梳理厚密被毛时动作轻柔，保留安静高处供其休息。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "梳理厚密被毛时动作轻柔，保留安静高处供其休息。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "适中",
+    "groomingLevel": "常规",
+    "sheddingLevel": "正常",
+    "social": "较独立",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/chartreux/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/chartreux/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "blue",
+        "name": "蓝色",
+        "en": "blue",
+        "swatches": [
+          "#7B8796"
+        ],
+        "source": "https://cfa.org/breed/chartreux/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/chartreux/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。梳理厚密被毛时动作轻柔，保留安静高处供其休息。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型"
+    ]
+  },
+  {
+    "id": "turkish-angora",
+    "name": "土耳其安哥拉猫",
+    "en": "Turkish Angora",
+    "aliases": [
+      "安哥拉",
+      "土安"
+    ],
+    "origin": "土耳其",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "长毛",
+    "coats": [
+      "长毛"
+    ],
+    "tags": [
+      "较高",
+      "亲人",
+      "长毛"
+    ],
+    "description": "轻盈修长的身体、丝滑半长毛、大耳朵和羽毛状长尾。通常敏捷好奇，喜欢参与活动，与家人互动。",
+    "appearance": "轻盈修长的身体、丝滑半长毛、大耳朵和羽毛状长尾。",
+    "temperament": "通常敏捷好奇，喜欢参与活动，与家人互动。",
+    "care": "规律梳理，重点检查腋下、腹部和腿后的打结。注意高处平台和窗户安全，轻柔打理细长毛。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "注意高处平台和窗户安全，轻柔打理细长毛。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "较高",
+    "groomingLevel": "常规",
+    "sheddingLevel": "正常",
+    "social": "亲人",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/turkish-angora/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/turkish-angora/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "white",
+        "name": "白色",
+        "en": "white",
+        "swatches": [
+          "#F4F1E8"
+        ],
+        "source": "https://cfa.org/breed/turkish-angora/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "long",
+        "name": "长毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/turkish-angora/",
+        "profile": {
+          "coat": "长毛",
+          "coatNote": "此示例为长毛外观，注意颈毛、尾毛及容易打结的部位。",
+          "care": "规律梳理，重点检查腋下、腹部和腿后的打结。注意高处平台和窗户安全，轻柔打理细长毛。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "长毛型"
+    ]
+  },
+  {
+    "id": "turkish-van",
+    "name": "土耳其梵猫",
+    "en": "Turkish Van",
+    "aliases": [
+      "梵猫",
+      "梵色"
+    ],
+    "origin": "土耳其",
+    "size": "大型",
+    "sizes": [
+      "大型"
+    ],
+    "coat": "长毛",
+    "coats": [
+      "长毛"
+    ],
+    "tags": [
+      "较高",
+      "随和",
+      "长毛"
+    ],
+    "description": "常见大面积白色身体配合头部色斑和有色长尾，身形强健。活跃而有主见，喜欢探索，也会主动亲近熟悉的人。",
+    "appearance": "常见大面积白色身体配合头部色斑和有色长尾，身形强健。",
+    "temperament": "活跃而有主见，喜欢探索，也会主动亲近熟悉的人。",
+    "care": "规律梳理，重点检查腋下、腹部和腿后的打结。尊重触摸界限；喜好水的传闻不代表每只猫都喜欢洗澡。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "尊重触摸界限；喜好水的传闻不代表每只猫都喜欢洗澡。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "较高",
+    "groomingLevel": "常规",
+    "sheddingLevel": "正常",
+    "social": "随和",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/turkish-van/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/turkish-van/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "red-van",
+        "name": "红梵色",
+        "en": "red van",
+        "swatches": [
+          "#FAF8EF",
+          "#BE7C40"
+        ],
+        "source": "https://cfa.org/breed/turkish-van/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "long",
+        "name": "长毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/turkish-van/",
+        "profile": {
+          "coat": "长毛",
+          "coatNote": "此示例为长毛外观，注意颈毛、尾毛及容易打结的部位。",
+          "care": "规律梳理，重点检查腋下、腹部和腿后的打结。尊重触摸界限；喜好水的传闻不代表每只猫都喜欢洗澡。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "长毛型"
+    ]
+  },
+  {
+    "id": "egyptian-mau",
+    "name": "埃及猫",
+    "en": "Egyptian Mau",
+    "aliases": [
+      "埃及茂",
+      "埃及神猫"
+    ],
+    "origin": "埃及品种背景",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "短毛",
+    "coats": [
+      "短毛"
+    ],
+    "tags": [
+      "较高",
+      "亲人",
+      "短毛"
+    ],
+    "description": "自然散布的斑点、额头纹路和绿色眼睛，身体轻盈敏捷。通常警觉好奇，信任家人后愿意亲近和互动。",
+    "appearance": "自然散布的斑点、额头纹路和绿色眼睛，身体轻盈敏捷。",
+    "temperament": "通常警觉好奇，信任家人后愿意亲近和互动。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。留出追逐游戏空间，帮助其循序适应新访客。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "留出追逐游戏空间，帮助其循序适应新访客。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "较高",
+    "groomingLevel": "较低",
+    "sheddingLevel": "正常",
+    "social": "亲人",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/egyptian-mau/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/egyptian-mau/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "silver-spotted",
+        "name": "银色斑点",
+        "en": "silver spotted",
+        "swatches": [
+          "#CED1CF",
+          "#343637"
+        ],
+        "source": "https://cfa.org/breed/egyptian-mau/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/egyptian-mau/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。留出追逐游戏空间，帮助其循序适应新访客。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型"
+    ]
+  },
+  {
+    "id": "ocicat",
+    "name": "奥西猫",
+    "en": "Ocicat",
+    "aliases": [
+      "欧西猫",
+      "欧西豹猫"
+    ],
+    "origin": "美国",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "短毛",
+    "coats": [
+      "短毛"
+    ],
+    "tags": [
+      "较高",
+      "亲人",
+      "短毛"
+    ],
+    "description": "明显成排斑点、运动型身体和杏仁眼，外观有野性但属于家猫品种。通常外向爱玩，愿意参与互动。",
+    "appearance": "明显成排斑点、运动型身体和杏仁眼，外观有野性但属于家猫品种。",
+    "temperament": "通常外向爱玩，愿意参与互动。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。安排攀爬、追逐和益智活动，建立稳定的作息。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "安排攀爬、追逐和益智活动，建立稳定的作息。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "较高",
+    "groomingLevel": "较低",
+    "sheddingLevel": "正常",
+    "social": "亲人",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/ocicat/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/ocicat/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "tawny-spotted",
+        "name": "棕褐斑点",
+        "en": "tawny spotted",
+        "swatches": [
+          "#AC8055",
+          "#433126"
+        ],
+        "source": "https://cfa.org/breed/ocicat/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/ocicat/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。安排攀爬、追逐和益智活动，建立稳定的作息。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型"
+    ]
+  },
+  {
+    "id": "oriental-shorthair",
+    "name": "东方短毛猫",
+    "en": "Oriental Shorthair",
+    "aliases": [
+      "东短",
+      "东方猫"
+    ],
+    "origin": "英国品种发展",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "短毛",
+    "coats": [
+      "短毛"
+    ],
+    "tags": [
+      "较高",
+      "需陪伴",
+      "短毛"
+    ],
+    "description": "细长楔形脸、醒目的大耳朵、修长身体，毛色花纹十分丰富。活跃爱交流，通常希望得到较多关注。",
+    "appearance": "细长楔形脸、醒目的大耳朵、修长身体，毛色花纹十分丰富。",
+    "temperament": "活跃爱交流，通常希望得到较多关注。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。安排每日互动和温暖安静的休息处，不忽略对陪伴的需求。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "安排每日互动和温暖安静的休息处，不忽略对陪伴的需求。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "较高",
+    "groomingLevel": "较低",
+    "sheddingLevel": "正常",
+    "social": "需陪伴",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/oriental/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/oriental/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "black",
+        "name": "黑色",
+        "en": "black",
+        "swatches": [
+          "#282A2B"
+        ],
+        "source": "https://cfa.org/breed/oriental/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/oriental/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。安排每日互动和温暖安静的休息处，不忽略对陪伴的需求。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型"
+    ]
+  },
+  {
+    "id": "balinese",
+    "name": "巴厘猫",
+    "en": "Balinese",
+    "aliases": [
+      "巴厘",
+      "长毛暹罗"
+    ],
+    "origin": "美国品种发展",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "长毛",
+    "coats": [
+      "长毛"
+    ],
+    "tags": [
+      "较高",
+      "需陪伴",
+      "长毛"
+    ],
+    "description": "修长的重点色身体、蓝眼睛、柔软半长毛与飘逸长尾。通常活跃亲人，喜欢用声音与家人沟通。",
+    "appearance": "修长的重点色身体、蓝眼睛、柔软半长毛与飘逸长尾。",
+    "temperament": "通常活跃亲人，喜欢用声音与家人沟通。",
+    "care": "规律梳理，重点检查腋下、腹部和腿后的打结。轻柔梳理尾毛，提供丰富互动和可攀爬空间。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "轻柔梳理尾毛，提供丰富互动和可攀爬空间。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "较高",
+    "groomingLevel": "常规",
+    "sheddingLevel": "正常",
+    "social": "需陪伴",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/balinese/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/balinese/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "seal-point",
+        "name": "海豹重点色",
+        "en": "seal point",
+        "swatches": [
+          "#D9C9AF",
+          "#4D362C"
+        ],
+        "source": "https://cfa.org/breed/balinese/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "long",
+        "name": "长毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/balinese/",
+        "profile": {
+          "coat": "长毛",
+          "coatNote": "此示例为长毛外观，注意颈毛、尾毛及容易打结的部位。",
+          "care": "规律梳理，重点检查腋下、腹部和腿后的打结。轻柔梳理尾毛，提供丰富互动和可攀爬空间。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "长毛型"
+    ]
+  },
+  {
+    "id": "devon-rex",
+    "name": "德文卷毛猫",
+    "en": "Devon Rex",
+    "aliases": [
+      "德文",
+      "德文卷毛"
+    ],
+    "origin": "英国",
+    "size": "小型",
+    "sizes": [
+      "小型"
+    ],
+    "coat": "卷毛",
+    "coats": [
+      "卷毛"
+    ],
+    "tags": [
+      "较高",
+      "需陪伴",
+      "卷毛"
+    ],
+    "description": "宽阔小脸、很大的低位耳朵和柔软短卷毛，轮廓像小精灵。好奇活泼，喜欢贴近家人并参与游戏。",
+    "appearance": "宽阔小脸、很大的低位耳朵和柔软短卷毛，轮廓像小精灵。",
+    "temperament": "好奇活泼，喜欢贴近家人并参与游戏。",
+    "care": "以适合卷毛的方式轻柔打理，避免拉扯。温和护理脆弱卷毛和皮肤，避免反复拉扯；少毛不等于不过敏。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "温和护理脆弱卷毛和皮肤，避免反复拉扯；少毛不等于不过敏。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "较高",
+    "groomingLevel": "常规",
+    "sheddingLevel": "较少",
+    "social": "需陪伴",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/devon-rex/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/devon-rex/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "blue-white",
+        "name": "蓝白",
+        "en": "blue white",
+        "swatches": [
+          "#87939F",
+          "#FAF8F1"
+        ],
+        "source": "https://cfa.org/breed/devon-rex/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "curly",
+        "name": "短卷毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/devon-rex/",
+        "profile": {
+          "coat": "卷毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "以适合卷毛的方式轻柔打理，避免拉扯。温和护理脆弱卷毛和皮肤，避免反复拉扯；少毛不等于不过敏。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短卷毛型"
+    ]
+  },
+  {
+    "id": "cornish-rex",
+    "name": "柯尼斯卷毛猫",
+    "en": "Cornish Rex",
+    "aliases": [
+      "康沃尔卷毛",
+      "柯尼斯"
+    ],
+    "origin": "英国",
+    "size": "小型",
+    "sizes": [
+      "小型"
+    ],
+    "coat": "卷毛",
+    "coats": [
+      "卷毛"
+    ],
+    "tags": [
+      "较高",
+      "需陪伴",
+      "卷毛"
+    ],
+    "description": "高耳位、修长头部、细长四肢和紧贴身体的波浪卷毛。通常活跃外向，喜欢追逐和接近家人。",
+    "appearance": "高耳位、修长头部、细长四肢和紧贴身体的波浪卷毛。",
+    "temperament": "通常活跃外向，喜欢追逐和接近家人。",
+    "care": "以适合卷毛的方式轻柔打理，避免拉扯。准备温暖休息区与足够互动，以温和方式护理薄被毛。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "准备温暖休息区与足够互动，以温和方式护理薄被毛。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "较高",
+    "groomingLevel": "常规",
+    "sheddingLevel": "较少",
+    "social": "需陪伴",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/cornish-rex/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/cornish-rex/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "cream",
+        "name": "乳色",
+        "en": "cream",
+        "swatches": [
+          "#EBD7B2"
+        ],
+        "source": "https://cfa.org/breed/cornish-rex/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "curly",
+        "name": "短卷毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/cornish-rex/",
+        "profile": {
+          "coat": "卷毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "以适合卷毛的方式轻柔打理，避免拉扯。准备温暖休息区与足够互动，以温和方式护理薄被毛。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短卷毛型"
+    ]
+  },
+  {
+    "id": "selkirk-rex",
+    "name": "塞尔凯克卷毛猫",
+    "en": "Selkirk Rex",
+    "aliases": [
+      "塞尔凯克",
+      "羊毛猫"
+    ],
+    "origin": "美国",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "卷毛",
+    "coats": [
+      "卷毛"
+    ],
+    "tags": [
+      "适中",
+      "亲人",
+      "卷毛"
+    ],
+    "description": "结实体型配合蓬松卷曲的被毛和胡须，有短毛与长毛外观。通常随和耐心，喜欢温和陪伴。",
+    "appearance": "结实体型配合蓬松卷曲的被毛和胡须，有短毛与长毛外观。",
+    "temperament": "通常随和耐心，喜欢温和陪伴。",
+    "care": "以适合卷毛的方式轻柔打理，避免拉扯。梳理方式应保留自然卷曲并避免拉扯，检查腋下和腹部打结。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "梳理方式应保留自然卷曲并避免拉扯，检查腋下和腹部打结。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "适中",
+    "groomingLevel": "较高",
+    "sheddingLevel": "正常",
+    "social": "亲人",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/selkirk-rex/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/selkirk-rex/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "blue",
+        "name": "蓝色",
+        "en": "blue",
+        "swatches": [
+          "#7B8796"
+        ],
+        "source": "https://cfa.org/breed/selkirk-rex/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "long",
+        "name": "长卷毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/selkirk-rex/",
+        "profile": {
+          "coat": "卷毛",
+          "coatNote": "此示例为长毛外观，注意颈毛、尾毛及容易打结的部位。",
+          "care": "以适合卷毛的方式轻柔打理，避免拉扯。梳理方式应保留自然卷曲并避免拉扯，检查腋下和腹部打结。"
+        }
+      },
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/selkirk-rex/",
+        "profile": {
+          "coat": "卷毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "以适合卷毛的方式轻柔打理，避免拉扯。梳理方式应保留自然卷曲并避免拉扯，检查腋下和腹部打结。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "长毛型",
+      "短毛型"
+    ]
+  },
+  {
+    "id": "laperm",
+    "name": "拉邦猫",
+    "en": "LaPerm",
+    "aliases": [
+      "拉波猫",
+      "拉邦卷毛"
+    ],
+    "origin": "美国",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "卷毛",
+    "coats": [
+      "卷毛"
+    ],
+    "tags": [
+      "适中",
+      "亲人",
+      "卷毛"
+    ],
+    "description": "松散弹性的卷毛、卷曲颈毛和轻盈体态，有长短毛分型。通常友善爱互动，也能安静贴近家人。",
+    "appearance": "松散弹性的卷毛、卷曲颈毛和轻盈体态，有长短毛分型。",
+    "temperament": "通常友善爱互动，也能安静贴近家人。",
+    "care": "以适合卷毛的方式轻柔打理，避免拉扯。轻柔处理卷毛，观察毛量随季节和个体变化的情况。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "轻柔处理卷毛，观察毛量随季节和个体变化的情况。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "适中",
+    "groomingLevel": "常规",
+    "sheddingLevel": "正常",
+    "social": "亲人",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/laperm/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/laperm/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "brown-tabby",
+        "name": "棕虎斑",
+        "en": "brown tabby",
+        "swatches": [
+          "#997553",
+          "#332D27"
+        ],
+        "source": "https://cfa.org/breed/laperm/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "long",
+        "name": "长卷毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/laperm/",
+        "profile": {
+          "coat": "卷毛",
+          "coatNote": "此示例为长毛外观，注意颈毛、尾毛及容易打结的部位。",
+          "care": "以适合卷毛的方式轻柔打理，避免拉扯。轻柔处理卷毛，观察毛量随季节和个体变化的情况。"
+        }
+      },
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/laperm/",
+        "profile": {
+          "coat": "卷毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "以适合卷毛的方式轻柔打理，避免拉扯。轻柔处理卷毛，观察毛量随季节和个体变化的情况。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "长毛型",
+      "短毛型"
+    ]
+  },
+  {
+    "id": "american-curl",
+    "name": "美国卷耳猫",
+    "en": "American Curl",
+    "aliases": [
+      "美卷",
+      "卷耳猫"
+    ],
+    "origin": "美国",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "长毛",
+    "coats": [
+      "长毛",
+      "短毛"
+    ],
+    "tags": [
+      "适中",
+      "亲人",
+      "长毛"
+    ],
+    "description": "耳尖向后自然弯曲是典型特征；被毛有长毛与短毛分型。通常活泼友善，愿意与家人一起活动。",
+    "appearance": "耳尖向后自然弯曲是典型特征；被毛有长毛与短毛分型。",
+    "temperament": "通常活泼友善，愿意与家人一起活动。",
+    "care": "规律梳理，重点检查腋下、腹部和腿后的打结。不要强行掰动耳朵；按所选被毛类型轻柔梳理。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "不要强行掰动耳朵；按所选被毛类型轻柔梳理。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "适中",
+    "groomingLevel": "常规",
+    "sheddingLevel": "正常",
+    "social": "亲人",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/american-curl/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/american-curl/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "brown-white",
+        "name": "棕虎斑加白",
+        "en": "brown white",
+        "swatches": [
+          "#94704D",
+          "#39302A",
+          "#F8F6EF"
+        ],
+        "source": "https://cfa.org/breed/american-curl/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "long",
+        "name": "长毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/american-curl/",
+        "profile": {
+          "coat": "长毛",
+          "coatNote": "此示例为长毛外观，注意颈毛、尾毛及容易打结的部位。",
+          "care": "规律梳理，重点检查腋下、腹部和腿后的打结。不要强行掰动耳朵；按所选被毛类型轻柔梳理。"
+        }
+      },
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/american-curl/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理，重点检查腋下、腹部和腿后的打结。不要强行掰动耳朵；按所选被毛类型轻柔梳理。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "长毛型",
+      "短毛型"
+    ]
+  },
+  {
+    "id": "sphynx",
+    "name": "斯芬克斯猫",
+    "en": "Sphynx",
+    "aliases": [
+      "无毛猫",
+      "加拿大无毛猫"
+    ],
+    "origin": "加拿大品种发展",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "无毛",
+    "coats": [
+      "无毛"
+    ],
+    "tags": [
+      "较高",
+      "需陪伴",
+      "无毛"
+    ],
+    "description": "几乎无毛的皮肤、大耳朵、明显面部轮廓与结实身体。通常外向亲人，喜欢温暖并希望参与互动。",
+    "appearance": "几乎无毛的皮肤、大耳朵、明显面部轮廓与结实身体。",
+    "temperament": "通常外向亲人，喜欢温暖并希望参与互动。",
+    "care": "按皮肤状态进行温和清洁，提供舒适温度与遮阳。注意保暖与日晒防护，按皮肤状况温和清洁；无毛不等于不会引起过敏。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "注意保暖与日晒防护，按皮肤状况温和清洁；无毛不等于不会引起过敏。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "较高",
+    "groomingLevel": "较高",
+    "sheddingLevel": "较少",
+    "social": "需陪伴",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/sphynx/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/sphynx/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "pink-gray",
+        "name": "粉灰皮肤",
+        "en": "pink gray",
+        "swatches": [
+          "#D3B6B0",
+          "#81858D"
+        ],
+        "source": "https://cfa.org/breed/sphynx/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "hairless",
+        "name": "无毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/sphynx/",
+        "profile": {
+          "coat": "无毛",
+          "coatNote": "无毛外观并不代表不存在过敏原。",
+          "care": "按皮肤状态进行温和清洁，提供舒适温度与遮阳。注意保暖与日晒防护，按皮肤状况温和清洁；无毛不等于不会引起过敏。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "无毛型"
+    ]
+  },
+  {
+    "id": "japanese-bobtail",
+    "name": "日本短尾猫",
+    "en": "Japanese Bobtail",
+    "aliases": [
+      "日短",
+      "招财猫"
+    ],
+    "origin": "日本",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "短毛",
+    "coats": [
+      "短毛",
+      "长毛"
+    ],
+    "tags": [
+      "较高",
+      "亲人",
+      "短毛"
+    ],
+    "description": "短而独特的绒球尾、三角形头部和轻盈体态，有长短毛外观。通常敏捷好奇，喜欢互动和发出柔和叫声。",
+    "appearance": "短而独特的绒球尾、三角形头部和轻盈体态，有长短毛外观。",
+    "temperament": "通常敏捷好奇，喜欢互动和发出柔和叫声。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。尊重尾部自然结构，提供追逐和攀爬游戏。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "尊重尾部自然结构，提供追逐和攀爬游戏。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "较高",
+    "groomingLevel": "常规",
+    "sheddingLevel": "正常",
+    "social": "亲人",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/japanese-bobtail/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/japanese-bobtail/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "calico",
+        "name": "三花",
+        "en": "calico",
+        "swatches": [
+          "#FAF6E8",
+          "#B16E34",
+          "#29282B"
+        ],
+        "source": "https://cfa.org/breed/japanese-bobtail/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/japanese-bobtail/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。尊重尾部自然结构，提供追逐和攀爬游戏。"
+        }
+      },
+      {
+        "id": "long",
+        "name": "长毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/japanese-bobtail/",
+        "profile": {
+          "coat": "长毛",
+          "coatNote": "此示例为长毛外观，注意颈毛、尾毛及容易打结的部位。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。尊重尾部自然结构，提供追逐和攀爬游戏。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型",
+      "长毛型"
+    ]
+  },
+  {
+    "id": "american-bobtail",
+    "name": "美国短尾猫",
+    "en": "American Bobtail",
+    "aliases": [
+      "美短尾",
+      "美洲短尾猫"
+    ],
+    "origin": "美国",
+    "size": "大型",
+    "sizes": [
+      "大型"
+    ],
+    "coat": "长毛",
+    "coats": [
+      "长毛",
+      "短毛"
+    ],
+    "tags": [
+      "适中",
+      "亲人",
+      "长毛"
+    ],
+    "description": "结实身体、较宽头部与自然短尾，毛型可长可短。通常友善敏锐，喜欢参与家庭活动。",
+    "appearance": "结实身体、较宽头部与自然短尾，毛型可长可短。",
+    "temperament": "通常友善敏锐，喜欢参与家庭活动。",
+    "care": "规律梳理，重点检查腋下、腹部和腿后的打结。按长短毛分型打理被毛，提供稳固的活动设施。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "按长短毛分型打理被毛，提供稳固的活动设施。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "适中",
+    "groomingLevel": "常规",
+    "sheddingLevel": "正常",
+    "social": "亲人",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/american-bobtail/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/american-bobtail/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "brown-tabby",
+        "name": "棕虎斑",
+        "en": "brown tabby",
+        "swatches": [
+          "#997553",
+          "#332D27"
+        ],
+        "source": "https://cfa.org/breed/american-bobtail/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "long",
+        "name": "长毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/american-bobtail/",
+        "profile": {
+          "coat": "长毛",
+          "coatNote": "此示例为长毛外观，注意颈毛、尾毛及容易打结的部位。",
+          "care": "规律梳理，重点检查腋下、腹部和腿后的打结。按长短毛分型打理被毛，提供稳固的活动设施。"
+        }
+      },
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/american-bobtail/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理，重点检查腋下、腹部和腿后的打结。按长短毛分型打理被毛，提供稳固的活动设施。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "长毛型",
+      "短毛型"
+    ]
+  },
+  {
+    "id": "manx",
+    "name": "马恩岛猫",
+    "en": "Manx",
+    "aliases": [
+      "曼岛猫",
+      "无尾猫"
+    ],
+    "origin": "马恩岛",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "短毛",
+    "coats": [
+      "短毛"
+    ],
+    "tags": [
+      "适中",
+      "亲人",
+      "短毛"
+    ],
+    "description": "圆润身形、较高后躯与短尾或无尾外观，有相应长毛类型。通常聪明友善，愿意参加游戏。",
+    "appearance": "圆润身形、较高后躯与短尾或无尾外观，有相应长毛类型。",
+    "temperament": "通常聪明友善，愿意参加游戏。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。留意行动和排泄状态；出现持续异常应让兽医评估，不强行触碰尾根。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "留意行动和排泄状态；出现持续异常应让兽医评估，不强行触碰尾根。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "适中",
+    "groomingLevel": "常规",
+    "sheddingLevel": "正常",
+    "social": "亲人",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": false,
+    "source": "https://cfa.org/breed/manx/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/manx/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "brown-white",
+        "name": "棕虎斑加白",
+        "en": "brown white",
+        "swatches": [
+          "#94704D",
+          "#39302A",
+          "#F8F6EF"
+        ],
+        "source": "https://cfa.org/breed/manx/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/manx/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。留意行动和排泄状态；出现持续异常应让兽医评估，不强行触碰尾根。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型"
+    ]
+  },
+  {
+    "id": "khao-manee",
+    "name": "考曼尼猫",
+    "en": "Khao Manee",
+    "aliases": [
+      "白宝石猫",
+      "异瞳白猫"
+    ],
+    "origin": "泰国",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "短毛",
+    "coats": [
+      "短毛"
+    ],
+    "tags": [
+      "适中",
+      "亲人",
+      "短毛"
+    ],
+    "description": "纯白短毛与明亮眼睛很醒目，眼色可以相同或不同。通常活跃友善，喜欢与家人交流。",
+    "appearance": "纯白短毛与明亮眼睛很醒目，眼色可以相同或不同。",
+    "temperament": "通常活跃友善，喜欢与家人交流。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。观察个体听觉反应并按需检查，异瞳或白毛不能单独决定品种。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "观察个体听觉反应并按需检查，异瞳或白毛不能单独决定品种。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "适中",
+    "groomingLevel": "较低",
+    "sheddingLevel": "正常",
+    "social": "亲人",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/khao-manee/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/khao-manee/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "white",
+        "name": "白色",
+        "en": "white",
+        "swatches": [
+          "#F4F1E8"
+        ],
+        "source": "https://cfa.org/breed/khao-manee/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/khao-manee/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。观察个体听觉反应并按需检查，异瞳或白毛不能单独决定品种。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型"
+    ]
+  },
+  {
+    "id": "singapura",
+    "name": "新加坡猫",
+    "en": "Singapura",
+    "aliases": [
+      "新加坡",
+      "狮城猫"
+    ],
+    "origin": "新加坡品种背景",
+    "size": "小型",
+    "sizes": [
+      "小型"
+    ],
+    "coat": "短毛",
+    "coats": [
+      "短毛"
+    ],
+    "tags": [
+      "较高",
+      "亲人",
+      "短毛"
+    ],
+    "description": "小巧身体、大耳大眼与细腻的象牙棕多段色被毛。通常好奇敏捷，喜欢贴近熟悉的人。",
+    "appearance": "小巧身体、大耳大眼与细腻的象牙棕多段色被毛。",
+    "temperament": "通常好奇敏捷，喜欢贴近熟悉的人。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。提供安全的高处与躲藏空间，适应新家时避免过度打扰。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "提供安全的高处与躲藏空间，适应新家时避免过度打扰。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "较高",
+    "groomingLevel": "较低",
+    "sheddingLevel": "正常",
+    "social": "亲人",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/singapura/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/singapura/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "sepia-agouti",
+        "name": "象牙棕多段色",
+        "en": "sepia agouti",
+        "swatches": [
+          "#D9C7AA",
+          "#7E6247"
+        ],
+        "source": "https://cfa.org/breed/singapura/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/singapura/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。提供安全的高处与躲藏空间，适应新家时避免过度打扰。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型"
+    ]
+  },
+  {
+    "id": "korat",
+    "name": "科拉特猫",
+    "en": "Korat",
+    "aliases": [
+      "呵叻猫",
+      "科拉特"
+    ],
+    "origin": "泰国",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "短毛",
+    "coats": [
+      "短毛"
+    ],
+    "tags": [
+      "适中",
+      "亲人",
+      "短毛"
+    ],
+    "description": "蓝灰色被毛带银色毛尖，绿色眼睛配合心形头部。通常敏锐亲近家人，偏好稳定的环境和熟悉伙伴。",
+    "appearance": "蓝灰色被毛带银色毛尖，绿色眼睛配合心形头部。",
+    "temperament": "通常敏锐亲近家人，偏好稳定的环境和熟悉伙伴。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。循序适应新声音和新成员，维持稳定作息。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "循序适应新声音和新成员，维持稳定作息。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "适中",
+    "groomingLevel": "较低",
+    "sheddingLevel": "正常",
+    "social": "亲人",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/korat/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/korat/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "blue",
+        "name": "蓝色",
+        "en": "blue",
+        "swatches": [
+          "#7B8796"
+        ],
+        "source": "https://cfa.org/breed/korat/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/korat/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。循序适应新声音和新成员，维持稳定作息。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型"
+    ]
+  },
+  {
+    "id": "havana-brown",
+    "name": "哈瓦那棕猫",
+    "en": "Havana Brown",
+    "aliases": [
+      "哈瓦那",
+      "巧克力猫"
+    ],
+    "origin": "英国品种发展",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "短毛",
+    "coats": [
+      "短毛"
+    ],
+    "tags": [
+      "适中",
+      "亲人",
+      "短毛"
+    ],
+    "description": "暖巧克力色短毛、绿色眼睛与独特口鼻轮廓是代表特征。通常好奇温和，喜欢用爪子探索并亲近家人。",
+    "appearance": "暖巧克力色短毛、绿色眼睛与独特口鼻轮廓是代表特征。",
+    "temperament": "通常好奇温和，喜欢用爪子探索并亲近家人。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。提供可安全探索的玩具，温和梳理短毛。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "提供可安全探索的玩具，温和梳理短毛。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "适中",
+    "groomingLevel": "较低",
+    "sheddingLevel": "正常",
+    "social": "亲人",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/havana-brown/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/havana-brown/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "chocolate",
+        "name": "巧克力色",
+        "en": "chocolate",
+        "swatches": [
+          "#6E4A35"
+        ],
+        "source": "https://cfa.org/breed/havana-brown/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/havana-brown/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。提供可安全探索的玩具，温和梳理短毛。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型"
+    ]
+  },
+  {
+    "id": "tonkinese",
+    "name": "东奇尼猫",
+    "en": "Tonkinese",
+    "aliases": [
+      "东奇尼",
+      "东京猫"
+    ],
+    "origin": "加拿大及美国品种发展",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "短毛",
+    "coats": [
+      "短毛"
+    ],
+    "tags": [
+      "较高",
+      "需陪伴",
+      "短毛"
+    ],
+    "description": "匀称有力的体型，短而细滑的被毛，常见水貂色等外观。通常社交、活泼，喜欢得到关注并参与游戏。",
+    "appearance": "匀称有力的体型，短而细滑的被毛，常见水貂色等外观。",
+    "temperament": "通常社交、活泼，喜欢得到关注并参与游戏。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。安排丰富互动与稳定陪伴，温和建立独处习惯。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "安排丰富互动与稳定陪伴，温和建立独处习惯。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "较高",
+    "groomingLevel": "较低",
+    "sheddingLevel": "正常",
+    "social": "需陪伴",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/tonkinese/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/tonkinese/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "natural-mink",
+        "name": "天然水貂色",
+        "en": "natural mink",
+        "swatches": [
+          "#AC9580",
+          "#655043"
+        ],
+        "source": "https://cfa.org/breed/tonkinese/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/tonkinese/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。安排丰富互动与稳定陪伴，温和建立独处习惯。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型"
+    ]
+  },
+  {
+    "id": "snowshoe",
+    "name": "雪鞋猫",
+    "en": "Snowshoe",
+    "aliases": [
+      "雪鞋",
+      "白脚暹罗"
+    ],
+    "origin": "美国",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "短毛",
+    "coats": [
+      "短毛"
+    ],
+    "tags": [
+      "适中",
+      "亲人",
+      "短毛"
+    ],
+    "description": "重点色身体、白色脚掌与面部白斑，常有蓝色眼睛。通常亲人好奇，愿意与家人交流和玩耍。",
+    "appearance": "重点色身体、白色脚掌与面部白斑，常有蓝色眼睛。",
+    "temperament": "通常亲人好奇，愿意与家人交流和玩耍。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。提供固定互动时间，留意每只猫对声音和触摸的偏好。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "提供固定互动时间，留意每只猫对声音和触摸的偏好。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "适中",
+    "groomingLevel": "较低",
+    "sheddingLevel": "正常",
+    "social": "亲人",
+    "association": "TICA资料",
+    "groupName": "TICA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://tica.org/breed/snowshoe/",
+    "sourceLabel": "TICA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "TICA 猫种资料",
+        "url": "https://tica.org/breed/snowshoe/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "seal-bicolor",
+        "name": "海豹双色",
+        "en": "seal bicolor",
+        "swatches": [
+          "#EEE8DD",
+          "#614A3C"
+        ],
+        "source": "https://tica.org/breed/snowshoe/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://tica.org/breed/snowshoe/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。提供固定互动时间，留意每只猫对声音和触摸的偏好。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型"
+    ]
+  },
+  {
+    "id": "scottish-fold",
+    "name": "苏格兰折耳猫",
+    "en": "Scottish Fold",
+    "aliases": [
+      "折耳",
+      "苏格兰折耳"
+    ],
+    "origin": "苏格兰",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "短毛",
+    "coats": [
+      "短毛"
+    ],
+    "tags": [
+      "适中",
+      "亲人",
+      "短毛"
+    ],
+    "description": "圆脸与向前折叠的耳朵是外观特征，但耳形也与遗传性软骨问题有关。通常喜欢温和互动，行动意愿下降也可能与不适有关。",
+    "appearance": "圆脸与向前折叠的耳朵是外观特征，但耳形也与遗传性软骨问题有关。",
+    "temperament": "通常喜欢温和互动，行动意愿下降也可能与不适有关。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。折耳相关遗传改变可能影响全身骨软骨；关注疼痛、僵硬和活动减少，及时就医。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "折耳相关遗传改变可能影响全身骨软骨；关注疼痛、僵硬和活动减少，及时就医。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "适中",
+    "groomingLevel": "常规",
+    "sheddingLevel": "正常",
+    "social": "亲人",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": false,
+    "source": "https://cfa.org/breed/scottish-fold/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/scottish-fold/"
+      },
+      {
+        "label": "OMIA 遗传性骨软骨资料",
+        "url": "https://www.omia.org/OMIA001315/9685/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "blue",
+        "name": "蓝色",
+        "en": "blue",
+        "swatches": [
+          "#7B8796"
+        ],
+        "source": "https://cfa.org/breed/scottish-fold/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/scottish-fold/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。折耳相关遗传改变可能影响全身骨软骨；关注疼痛、僵硬和活动减少，及时就医。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型"
+    ]
+  },
+  {
+    "id": "munchkin",
+    "name": "曼基康猫",
+    "en": "Munchkin",
+    "aliases": [
+      "短腿猫",
+      "曼基康"
+    ],
+    "origin": "美国品种发展",
+    "size": "小型",
+    "sizes": [
+      "小型"
+    ],
+    "coat": "短毛",
+    "coats": [
+      "短毛"
+    ],
+    "tags": [
+      "适中",
+      "亲人",
+      "短毛"
+    ],
+    "description": "腿部较短而身体比例接近一般家猫，被毛可有多种颜色。通常好奇友善，也需要适合个体能力的游戏。",
+    "appearance": "腿部较短而身体比例接近一般家猫，被毛可有多种颜色。",
+    "temperament": "通常好奇友善，也需要适合个体能力的游戏。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。选择便于进出的猫砂盆和低阶平台，不鼓励挑战超过个体能力的跳跃。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "选择便于进出的猫砂盆和低阶平台，不鼓励挑战超过个体能力的跳跃。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "适中",
+    "groomingLevel": "较低",
+    "sheddingLevel": "正常",
+    "social": "亲人",
+    "association": "TICA资料",
+    "groupName": "TICA资料",
+    "catalogKind": "breed",
+    "matchEligible": false,
+    "source": "https://tica.org/breed/munchkin/",
+    "sourceLabel": "TICA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "TICA 猫种资料",
+        "url": "https://tica.org/breed/munchkin/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "red-white",
+        "name": "红虎斑加白",
+        "en": "red white",
+        "swatches": [
+          "#BD7A39",
+          "#F8F3E7"
+        ],
+        "source": "https://tica.org/breed/munchkin/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://tica.org/breed/munchkin/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。选择便于进出的猫砂盆和低阶平台，不鼓励挑战超过个体能力的跳跃。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型"
+    ]
+  },
+  {
+    "id": "toyger",
+    "name": "玩具虎猫",
+    "en": "Toyger",
+    "aliases": [
+      "虎纹猫",
+      "玩具虎"
+    ],
+    "origin": "美国",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "短毛",
+    "coats": [
+      "短毛"
+    ],
+    "tags": [
+      "较高",
+      "亲人",
+      "短毛"
+    ],
+    "description": "橙棕底色上带醒目的深色条纹，身体结实、轮廓有运动感。通常活跃好奇，喜欢与人互动。",
+    "appearance": "橙棕底色上带醒目的深色条纹，身体结实、轮廓有运动感。",
+    "temperament": "通常活跃好奇，喜欢与人互动。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。提供抓挠、攀爬和益智游戏；本条目是家猫品种，不是虎。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "提供抓挠、攀爬和益智游戏；本条目是家猫品种，不是虎。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "较高",
+    "groomingLevel": "较低",
+    "sheddingLevel": "正常",
+    "social": "亲人",
+    "association": "TICA资料",
+    "groupName": "TICA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://tica.org/breed/toyger/",
+    "sourceLabel": "TICA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "TICA 猫种资料",
+        "url": "https://tica.org/breed/toyger/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "brown-mackerel",
+        "name": "棕色条纹",
+        "en": "brown mackerel",
+        "swatches": [
+          "#AF8251",
+          "#3E3026"
+        ],
+        "source": "https://tica.org/breed/toyger/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://tica.org/breed/toyger/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。提供抓挠、攀爬和益智游戏；本条目是家猫品种，不是虎。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型"
+    ]
+  },
+  {
+    "id": "savannah",
+    "name": "萨凡纳猫",
+    "en": "Savannah",
+    "aliases": [
+      "草原猫",
+      "萨凡纳"
+    ],
+    "origin": "美国品种发展",
+    "size": "大型",
+    "sizes": [
+      "大型"
+    ],
+    "coat": "短毛",
+    "coats": [
+      "短毛"
+    ],
+    "tags": [
+      "较高",
+      "需陪伴",
+      "短毛"
+    ],
+    "description": "大耳朵、长腿、修长身体与清晰斑点被毛构成醒目轮廓。通常精力充沛、探索欲强，照护需要更多空间与经验。",
+    "appearance": "大耳朵、长腿、修长身体与清晰斑点被毛构成醒目轮廓。",
+    "temperament": "通常精力充沛、探索欲强，照护需要更多空间与经验。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。本版仅作家养品种知识介绍；不同世代、个体和饲养条件差异很大。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "本版仅作家养品种知识介绍；不同世代、个体和饲养条件差异很大。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "较高",
+    "groomingLevel": "较低",
+    "sheddingLevel": "正常",
+    "social": "需陪伴",
+    "association": "TICA资料",
+    "groupName": "TICA资料",
+    "catalogKind": "breed",
+    "matchEligible": false,
+    "source": "https://tica.org/breed/savannah/",
+    "sourceLabel": "TICA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "TICA 猫种资料",
+        "url": "https://tica.org/breed/savannah/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "brown-spotted",
+        "name": "棕色斑点",
+        "en": "brown spotted",
+        "swatches": [
+          "#C59A61",
+          "#342B23"
+        ],
+        "source": "https://tica.org/breed/savannah/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://tica.org/breed/savannah/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。本版仅作家养品种知识介绍；不同世代、个体和饲养条件差异很大。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型"
+    ]
+  },
+  {
+    "id": "nebelung",
+    "name": "尼伯龙猫",
+    "en": "Nebelung",
+    "aliases": [
+      "长毛俄蓝",
+      "尼伯龙"
+    ],
+    "origin": "美国品种发展",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "长毛",
+    "coats": [
+      "长毛"
+    ],
+    "tags": [
+      "适中",
+      "较独立",
+      "长毛"
+    ],
+    "description": "蓝灰色半长毛、绿色眼睛、柔和楔形头部与羽毛般长尾。通常温和谨慎，熟悉家人后会建立深厚联系。",
+    "appearance": "蓝灰色半长毛、绿色眼睛、柔和楔形头部与羽毛般长尾。",
+    "temperament": "通常温和谨慎，熟悉家人后会建立深厚联系。",
+    "care": "规律梳理，重点检查腋下、腹部和腿后的打结。保持安静、安全的适应空间，轻柔打理半长毛。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "保持安静、安全的适应空间，轻柔打理半长毛。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "适中",
+    "groomingLevel": "常规",
+    "sheddingLevel": "正常",
+    "social": "较独立",
+    "association": "TICA资料",
+    "groupName": "TICA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://tica.org/breed/nebelung/",
+    "sourceLabel": "TICA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "TICA 猫种资料",
+        "url": "https://tica.org/breed/nebelung/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "blue",
+        "name": "蓝色",
+        "en": "blue",
+        "swatches": [
+          "#7B8796"
+        ],
+        "source": "https://tica.org/breed/nebelung/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "long",
+        "name": "长毛型",
+        "kind": "被毛分型",
+        "source": "https://tica.org/breed/nebelung/",
+        "profile": {
+          "coat": "长毛",
+          "coatNote": "此示例为长毛外观，注意颈毛、尾毛及容易打结的部位。",
+          "care": "规律梳理，重点检查腋下、腹部和腿后的打结。保持安静、安全的适应空间，轻柔打理半长毛。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "长毛型"
+    ]
+  },
+  {
+    "id": "american-wirehair",
+    "name": "美国硬毛猫",
+    "en": "American Wirehair",
+    "aliases": [
+      "美硬",
+      "美国刚毛猫"
+    ],
+    "origin": "美国",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "硬毛",
+    "coats": [
+      "短毛"
+    ],
+    "tags": [
+      "适中",
+      "随和",
+      "硬毛"
+    ],
+    "description": "短毛有弹性、卷折和粗硬质感，体形结实，胡须也可能弯曲。通常随和好奇，喜欢适度游戏和家庭陪伴。",
+    "appearance": "短毛有弹性、卷折和粗硬质感，体形结实，胡须也可能弯曲。",
+    "temperament": "通常随和好奇，喜欢适度游戏和家庭陪伴。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。避免过度刷洗破坏毛质，以温和方式处理皮肤和浮毛。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "避免过度刷洗破坏毛质，以温和方式处理皮肤和浮毛。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "适中",
+    "groomingLevel": "常规",
+    "sheddingLevel": "正常",
+    "social": "随和",
+    "association": "CFA资料",
+    "groupName": "CFA资料",
+    "catalogKind": "breed",
+    "matchEligible": true,
+    "source": "https://cfa.org/breed/american-wirehair/",
+    "sourceLabel": "CFA 猫种资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 猫种资料",
+        "url": "https://cfa.org/breed/american-wirehair/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "brown-tabby",
+        "name": "棕虎斑",
+        "en": "brown tabby",
+        "swatches": [
+          "#997553",
+          "#332D27"
+        ],
+        "source": "https://cfa.org/breed/american-wirehair/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/breed/american-wirehair/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。避免过度刷洗破坏毛质，以温和方式处理皮肤和浮毛。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型"
+    ]
+  },
+  {
+    "id": "domestic-shorthair",
+    "name": "短毛家猫",
+    "en": "Domestic Shorthair",
+    "aliases": [
+      "田园猫",
+      "中华田园猫",
+      "橘猫",
+      "奶牛猫",
+      "三花",
+      "虎斑"
+    ],
+    "origin": "世界各地",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "短毛",
+    "coats": [
+      "短毛"
+    ],
+    "tags": [
+      "依个体",
+      "依个体",
+      "短毛"
+    ],
+    "description": "没有统一血统标准的短毛家猫类型，体型、脸形与毛色十分多样。个体差异很大，实际相处、年龄和生活经历比毛色更有参考价值。",
+    "appearance": "没有统一血统标准的短毛家猫类型，体型、脸形与毛色十分多样。",
+    "temperament": "个体差异很大，实际相处、年龄和生活经历比毛色更有参考价值。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。领养前了解实际性格和照护记录，按个体毛量、活动和体况调整照护。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "领养前了解实际性格和照护记录，按个体毛量、活动和体况调整照护。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "依个体",
+    "groomingLevel": "较低",
+    "sheddingLevel": "依个体",
+    "social": "依个体",
+    "association": "家猫类型",
+    "groupName": "地方与家猫",
+    "catalogKind": "household",
+    "matchEligible": false,
+    "source": "https://cfa.org/companion-cat-world/",
+    "sourceLabel": "CFA 家猫资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 家猫资料",
+        "url": "https://cfa.org/companion-cat-world/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "brown-tabby",
+        "name": "棕虎斑",
+        "en": "brown tabby",
+        "swatches": [
+          "#997553",
+          "#332D27"
+        ],
+        "source": "https://cfa.org/companion-cat-world/",
+        "kind": "已绘外观示例"
+      },
+      {
+        "id": "red-tabby",
+        "name": "红虎斑",
+        "en": "red tabby",
+        "swatches": [
+          "#CA8B43",
+          "#9A5C2C"
+        ],
+        "source": "https://cfa.org/companion-cat-world/",
+        "kind": "已绘外观示例"
+      },
+      {
+        "id": "black-white",
+        "name": "黑白",
+        "en": "black white",
+        "swatches": [
+          "#292A2D",
+          "#FAF8EF"
+        ],
+        "source": "https://cfa.org/companion-cat-world/",
+        "kind": "已绘外观示例"
+      },
+      {
+        "id": "calico",
+        "name": "三花",
+        "en": "calico",
+        "swatches": [
+          "#FAF6E8",
+          "#B16E34",
+          "#29282B"
+        ],
+        "source": "https://cfa.org/companion-cat-world/",
+        "kind": "已绘外观示例"
+      },
+      {
+        "id": "black",
+        "name": "黑色",
+        "en": "black",
+        "swatches": [
+          "#282A2B"
+        ],
+        "source": "https://cfa.org/companion-cat-world/",
+        "kind": "已绘外观示例"
+      },
+      {
+        "id": "white",
+        "name": "白色",
+        "en": "white",
+        "swatches": [
+          "#F4F1E8"
+        ],
+        "source": "https://cfa.org/companion-cat-world/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/companion-cat-world/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。领养前了解实际性格和照护记录，按个体毛量、活动和体况调整照护。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型"
+    ]
+  },
+  {
+    "id": "domestic-longhair",
+    "name": "长毛家猫",
+    "en": "Domestic Longhair",
+    "aliases": [
+      "田园长毛猫",
+      "长毛家猫"
+    ],
+    "origin": "世界各地",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "长毛",
+    "coats": [
+      "长毛"
+    ],
+    "tags": [
+      "依个体",
+      "依个体",
+      "长毛"
+    ],
+    "description": "没有统一血统标准的长毛家猫类型，常有丰厚尾毛与多样花色。性格与需求依个体而异，不能仅凭长毛外观推断品种或性情。",
+    "appearance": "没有统一血统标准的长毛家猫类型，常有丰厚尾毛与多样花色。",
+    "temperament": "性格与需求依个体而异，不能仅凭长毛外观推断品种或性情。",
+    "care": "规律梳理，重点检查腋下、腹部和腿后的打结。定期检查打结，结合实际相处观察对梳理与触摸的接受程度。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "定期检查打结，结合实际相处观察对梳理与触摸的接受程度。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "依个体",
+    "groomingLevel": "常规",
+    "sheddingLevel": "依个体",
+    "social": "依个体",
+    "association": "家猫类型",
+    "groupName": "地方与家猫",
+    "catalogKind": "household",
+    "matchEligible": false,
+    "source": "https://cfa.org/companion-cat-world/",
+    "sourceLabel": "CFA 家猫资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 家猫资料",
+        "url": "https://cfa.org/companion-cat-world/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "brown-white",
+        "name": "棕虎斑加白",
+        "en": "brown white",
+        "swatches": [
+          "#94704D",
+          "#39302A",
+          "#F8F6EF"
+        ],
+        "source": "https://cfa.org/companion-cat-world/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "long",
+        "name": "长毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/companion-cat-world/",
+        "profile": {
+          "coat": "长毛",
+          "coatNote": "此示例为长毛外观，注意颈毛、尾毛及容易打结的部位。",
+          "care": "规律梳理，重点检查腋下、腹部和腿后的打结。定期检查打结，结合实际相处观察对梳理与触摸的接受程度。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "长毛型"
+    ]
+  },
+  {
+    "id": "chinese-li-hua",
+    "name": "中国狸花猫",
+    "en": "Chinese Li Hua · Local Type",
+    "aliases": [
+      "狸花",
+      "狸花猫",
+      "中国家猫"
+    ],
+    "origin": "中国",
+    "size": "中型",
+    "sizes": [
+      "中型"
+    ],
+    "coat": "短毛",
+    "coats": [
+      "短毛"
+    ],
+    "tags": [
+      "依个体",
+      "依个体",
+      "短毛"
+    ],
+    "description": "此处收录中国常见的狸花地方家猫外观，短毛上有深色虎斑纹。地方家猫的性格差异较大，需要通过真实相处了解个体。",
+    "appearance": "此处收录中国常见的狸花地方家猫外观，短毛上有深色虎斑纹。",
+    "temperament": "地方家猫的性格差异较大，需要通过真实相处了解个体。",
+    "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。此条目作地方家猫类型展示，不凭虎斑花纹认定纯种血统。",
+    "coatNote": "毛色与花纹可能因登记体系和个体而异；下方展示本版已绘示例，不代表全部外观。",
+    "beginnerNote": "此条目作地方家猫类型展示，不凭虎斑花纹认定纯种血统。",
+    "height": "",
+    "weight": "",
+    "energy": null,
+    "trainability": null,
+    "grooming": null,
+    "shedding": null,
+    "complete": true,
+    "profileLevel": "detailed",
+    "artStatus": "original",
+    "activity": "依个体",
+    "groomingLevel": "较低",
+    "sheddingLevel": "依个体",
+    "social": "依个体",
+    "association": "家猫类型",
+    "groupName": "地方与家猫",
+    "catalogKind": "household",
+    "matchEligible": false,
+    "source": "https://cfa.org/companion-cat-world/",
+    "sourceLabel": "CFA 家猫资料",
+    "sourceDate": "2026-11-08",
+    "referenceSources": [
+      {
+        "label": "CFA 家猫资料",
+        "url": "https://cfa.org/companion-cat-world/"
+      }
+    ],
+    "colors": [
+      {
+        "id": "brown-mackerel",
+        "name": "棕色条纹",
+        "en": "brown mackerel",
+        "swatches": [
+          "#AF8251",
+          "#3E3026"
+        ],
+        "source": "https://cfa.org/companion-cat-world/",
+        "kind": "已绘外观示例"
+      }
+    ],
+    "forms": [
+      {
+        "id": "short",
+        "name": "短毛型",
+        "kind": "被毛分型",
+        "source": "https://cfa.org/companion-cat-world/",
+        "profile": {
+          "coat": "短毛",
+          "coatNote": "此示例为较短被毛外观，也需要温和打理。",
+          "care": "规律梳理浮毛，提供猫抓板、休息处和每日互动。此条目作地方家猫类型展示，不凭虎斑花纹认定纯种血统。"
+        }
+      }
+    ],
+    "standardVarieties": [
+      "短毛型"
+    ]
+  }
+]
