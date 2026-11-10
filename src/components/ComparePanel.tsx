@@ -26,7 +26,7 @@ export default function ComparePanel() {
     ['照护', ...list.map(b => b.care)],
   ];
   return <Screen><Title title="对比" action={<IconButton name="add" label="选择对比猫种" onPress={() => setPicker(true)} />} />
-    {!list.length ? <Empty title="一起看看" description="选 2–3 种，找到更合拍的猫咪。" art={<CollectionArt compare />} action={<Button title="选择猫种" onPress={() => setPicker(true)} />} /> : <>
+    {!list.length ? <Empty title="选择对比" description="最多选择 3 种" art={<CollectionArt compare />} action={<Button title="选择猫种" onPress={() => setPicker(true)} />} /> : <>
       <View style={{ flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', marginBottom: 17 }}><View accessibilityLabel={'已选 ' + list.length + ' 种，最多 3 种'} style={{ flexDirection: 'row', alignItems: 'center', gap: 9 }}><View style={{ flexDirection: 'row', gap: 4 }}>{[0, 1, 2].map(i => <View key={i} style={{ width: 17, height: 5, borderRadius: 3, backgroundColor: i < list.length ? c.green : '#D8E2D6' }} />)}</View><Text style={{ color: c.muted, fontSize: 12 }}>{list.length}/3</Text></View><Pressable accessibilityRole="button" accessibilityLabel="清空对比" onPress={clearCompare} style={{ minHeight: 44, justifyContent: 'center', paddingLeft: 15 }}><Text style={{ color: c.muted, fontSize: 13 }}>清空</Text></Pressable></View>
       <ScrollView horizontal showsHorizontalScrollIndicator={false}>
         <View style={{ width: Math.min(width, 480) - 40 }}>
@@ -39,7 +39,7 @@ export default function ComparePanel() {
     </>}
     <Modal visible={picker} animationType="slide" onRequestClose={() => setPicker(false)}><Screen scroll={false}>
       <View style={{ paddingHorizontal: 20 }}><Title title="选择猫种" action={<IconButton name="close" label="关闭猫种选择" onPress={() => setPicker(false)} />} /><Search value={query} onChange={setQuery} placeholder="搜索猫种" /></View>
-      <FlatList accessibilityLabel="可对比猫种" data={searchBreeds({ query })} keyExtractor={b => b.id} extraData={compare} initialNumToRender={8} maxToRenderPerBatch={8} windowSize={5} keyboardShouldPersistTaps="handled" style={{ flex: 1 }} contentContainerStyle={{ paddingHorizontal: 20 }} renderItem={({ item: b }) => <BreedRow breed={b} onPress={() => toggleCompare(b.id)} trailing={<Icon name={compare.includes(b.id) ? 'checkmark-circle' : 'add-circle-outline'} color={compare.includes(b.id) ? c.green : '#8B9D8E'} />} />} ListEmptyComponent={<Empty title="没有找到" description="试试其他名字。" />} />
+      <FlatList accessibilityLabel="可对比猫种" data={searchBreeds({ query })} keyExtractor={b => b.id} extraData={compare} initialNumToRender={8} maxToRenderPerBatch={8} windowSize={5} keyboardShouldPersistTaps="handled" style={{ flex: 1 }} contentContainerStyle={{ paddingHorizontal: 20 }} renderItem={({ item: b }) => <BreedRow breed={b} onPress={() => toggleCompare(b.id)} trailing={<Icon name={compare.includes(b.id) ? 'checkmark-circle' : 'add-circle-outline'} color={compare.includes(b.id) ? c.green : '#8B9D8E'} />} />} ListEmptyComponent={<Empty title="没有找到" description="" />} />
       <View style={{ paddingHorizontal: 20, paddingVertical: 14 }}><Button title={'完成（' + compare.length + '/3）'} onPress={() => setPicker(false)} /></View>
     </Screen></Modal>
   </Screen>;

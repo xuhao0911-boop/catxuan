@@ -15,7 +15,7 @@ export function AtlasHero() {
       <View pointerEvents="none" accessibilityElementsHidden style={{ position: 'absolute', width: 110, height: 110, borderRadius: 56, borderWidth: 1, borderColor: '#C4D8B4', left: -40, top: 48 }} />
       <View pointerEvents="none" accessibilityElementsHidden style={{ position: 'absolute', width: 7, height: 7, borderRadius: 5, backgroundColor: '#B2CA98', left: 145, top: 18 }} />
       <View style={{ width: '51%', zIndex: 1, gap: 8 }}>
-        <Text style={{ fontSize: 12, color: c.green }}>今日发现</Text>
+        
         <Text numberOfLines={2} style={{ fontSize: 21, lineHeight: 29, fontWeight: '700', color: c.text }}>{breed.name}</Text>
         <View style={{ width: 27, height: 27, borderRadius: 14, backgroundColor: '#FFFFFF', alignItems: 'center', justifyContent: 'center', marginTop: 2 }}><Icon name="arrow-forward" size={15} color={c.green} /></View>
       </View>
