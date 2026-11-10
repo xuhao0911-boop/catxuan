@@ -1,0 +1,545 @@
+{
+  "format": "Compressed display assets; original artwork is retained locally.",
+  "images": [
+    {
+      "original": "assets/android-icon-foreground.png",
+      "deployed": "assets/android-icon-foreground.png",
+      "original_sha256": "766643e7570ac1c944c89ea8868323c9641a9e0408c8fcc1e31a57196911b3fc",
+      "bytes": 51657
+    },
+    {
+      "original": "assets/android-icon-monochrome.png",
+      "deployed": "assets/android-icon-monochrome.png",
+      "original_sha256": "147a751be49c41cd6a1668387234f2130591f23bb5102c7c22f47cbd8fff3cb1",
+      "bytes": 49141
+    },
+    {
+      "original": "assets/favicon.png",
+      "deployed": "assets/favicon.png",
+      "original_sha256": "39fe92ffb95d02f02a9a20e3b617f0569d517bd41534dc47827bcc1fbaa6c615",
+      "bytes": 1631
+    },
+    {
+      "original": "assets/icon.png",
+      "deployed": "assets/icon.png",
+      "original_sha256": "766643e7570ac1c944c89ea8868323c9641a9e0408c8fcc1e31a57196911b3fc",
+      "bytes": 51657
+    },
+    {
+      "original": "assets/illustrations/abyssinian--ruddy--short.jpg",
+      "deployed": "assets/illustrations/abyssinian--ruddy--short.jpg",
+      "original_sha256": "e2748c78c06dc154d8f1ba5c0a7a70321081f4ec7f240ff3b506cc7f0c559a37",
+      "bytes": 82589
+    },
+    {
+      "original": "assets/illustrations/american-bobtail--brown-tabby--long.jpg",
+      "deployed": "assets/illustrations/american-bobtail--brown-tabby--long.jpg",
+      "original_sha256": "924fea4486deff4a774f91539b0085660228880899dd4403cdf31d9eee30bf25",
+      "bytes": 98035
+    },
+    {
+      "original": "assets/illustrations/american-bobtail--brown-tabby--short.jpg",
+      "deployed": "assets/illustrations/american-bobtail--brown-tabby--short.jpg",
+      "original_sha256": "7f71ed9ad1aa61b8ebb973d2918dc320b1d6bee7c5b22d2de3e0710066dac14c",
+      "bytes": 102251
+    },
+    {
+      "original": "assets/illustrations/american-curl--brown-white--long.jpg",
+      "deployed": "assets/illustrations/american-curl--brown-white--long.jpg",
+      "original_sha256": "5847b044f272a59a8e9cb5c39180fb50048bf135d95571e3606bd665b2e976cb",
+      "bytes": 83567
+    },
+    {
+      "original": "assets/illustrations/american-curl--brown-white--short.jpg",
+      "deployed": "assets/illustrations/american-curl--brown-white--short.jpg",
+      "original_sha256": "5611b56df6da8b49f64414bc2176f704ed26f3e770f7b8797d0f037b9f08e660",
+      "bytes": 72633
+    },
+    {
+      "original": "assets/illustrations/american-shorthair--brown-tabby--short.jpg",
+      "deployed": "assets/illustrations/american-shorthair--brown-tabby--short.jpg",
+      "original_sha256": "38fab9475f0b1f394b5a74d958e582b4d31d548eddb1e43ad64c9ec2e593322a",
+      "bytes": 85404
+    },
+    {
+      "original": "assets/illustrations/american-shorthair--red-tabby--short.jpg",
+      "deployed": "assets/illustrations/american-shorthair--red-tabby--short.jpg",
+      "original_sha256": "ff305abca05584086ec91d262c06a49ab0dfeeaefb4c878b5c4b9bbf22c293a4",
+      "bytes": 87070
+    },
+    {
+      "original": "assets/illustrations/american-shorthair--silver-tabby--short.jpg",
+      "deployed": "assets/illustrations/american-shorthair--silver-tabby--short.jpg",
+      "original_sha256": "bb65c4c3a94f7c64f1441de826b31c90cf10abe5008d84cb2d36b09915767c6a",
+      "bytes": 69950
+    },
+    {
+      "original": "assets/illustrations/american-wirehair--brown-tabby--short.jpg",
+      "deployed": "assets/illustrations/american-wirehair--brown-tabby--short.jpg",
+      "original_sha256": "85f2e6374050ce8681d76f3cd5c10c6ebcfcff0b07536f6cd2f5ab0894e33c92",
+      "bytes": 89895
+    },
+    {
+      "original": "assets/illustrations/balinese--seal-point--long.jpg",
+      "deployed": "assets/illustrations/balinese--seal-point--long.jpg",
+      "original_sha256": "10008de64c12105e4dd99f4c6e7e4891ca387a1c9c323255d0c5593da8edb71b",
+      "bytes": 63669
+    },
+    {
+      "original": "assets/illustrations/bengal--brown-marbled--short.jpg",
+      "deployed": "assets/illustrations/bengal--brown-marbled--short.jpg",
+      "original_sha256": "e9db1bb3c7aca8b95dafaa33b251ede0ddc652f0e5859c8d6d23810745924d68",
+      "bytes": 79135
+    },
+    {
+      "original": "assets/illustrations/bengal--brown-spotted--short.jpg",
+      "deployed": "assets/illustrations/bengal--brown-spotted--short.jpg",
+      "original_sha256": "f1a700fce836514cd77edc7d5ffe431253e7e57026fe420d6540706f8668f1c2",
+      "bytes": 78267
+    },
+    {
+      "original": "assets/illustrations/bengal--silver-spotted--short.jpg",
+      "deployed": "assets/illustrations/bengal--silver-spotted--short.jpg",
+      "original_sha256": "4825477770398a24349c6d0dd6411267e8e196fc34f9be9925650d7ca827f96f",
+      "bytes": 65056
+    },
+    {
+      "original": "assets/illustrations/birman--seal-point--long.jpg",
+      "deployed": "assets/illustrations/birman--seal-point--long.jpg",
+      "original_sha256": "ad48505d30c79e0dfc7a4f7ccb19cb1f55496e759d2a64a335d662f151638d8c",
+      "bytes": 66502
+    },
+    {
+      "original": "assets/illustrations/bombay--black--short.jpg",
+      "deployed": "assets/illustrations/bombay--black--short.jpg",
+      "original_sha256": "00da3c6443b3bac2238d7fd4017ec16938435e98ec6cecc04ab3e9badfded787",
+      "bytes": 58210
+    },
+    {
+      "original": "assets/illustrations/british-shorthair--blue--short.jpg",
+      "deployed": "assets/illustrations/british-shorthair--blue--short.jpg",
+      "original_sha256": "c581bb581113e10adcb312f6d9066ac12d329af66e584bc7a047596f478a4dd1",
+      "bytes": 66208
+    },
+    {
+      "original": "assets/illustrations/british-shorthair--cream--short.jpg",
+      "deployed": "assets/illustrations/british-shorthair--cream--short.jpg",
+      "original_sha256": "4977f3db19e01751b62871e75fb1fc0314a6046374b7ea2104a67016468fa02b",
+      "bytes": 61191
+    },
+    {
+      "original": "assets/illustrations/british-shorthair--golden-shaded--short.jpg",
+      "deployed": "assets/illustrations/british-shorthair--golden-shaded--short.jpg",
+      "original_sha256": "ae749f74ef21ba1e9f8e80b46c0a084f174a21b8ed4bf57f19d6628740cf19d3",
+      "bytes": 70831
+    },
+    {
+      "original": "assets/illustrations/british-shorthair--silver-shaded--short.jpg",
+      "deployed": "assets/illustrations/british-shorthair--silver-shaded--short.jpg",
+      "original_sha256": "77d4f7ecf3b0d14d78b0fcbc0eda220903bb97047ca9be7530ed3b6a2fac2c3e",
+      "bytes": 58566
+    },
+    {
+      "original": "assets/illustrations/burmese--sable--short.jpg",
+      "deployed": "assets/illustrations/burmese--sable--short.jpg",
+      "original_sha256": "31aa4bf98a1a3761ee0b9651d1e8b11449f8bcd0c93f828cbf155de0c038ff9d",
+      "bytes": 71362
+    },
+    {
+      "original": "assets/illustrations/burmilla--silver-shaded--short.jpg",
+      "deployed": "assets/illustrations/burmilla--silver-shaded--short.jpg",
+      "original_sha256": "f7790d2f8bcbb978a02195664a85d6eb8a9be8f06f307cb0550d078c18907ca0",
+      "bytes": 68214
+    },
+    {
+      "original": "assets/illustrations/chartreux--blue--short.jpg",
+      "deployed": "assets/illustrations/chartreux--blue--short.jpg",
+      "original_sha256": "886cbcdc7d656079dbe3182dc25580e9b36e165dd0f9048bd4079c67b9e8ce4f",
+      "bytes": 78577
+    },
+    {
+      "original": "assets/illustrations/chinese-li-hua--brown-mackerel--short.jpg",
+      "deployed": "assets/illustrations/chinese-li-hua--brown-mackerel--short.jpg",
+      "original_sha256": "7e7eb4f46b1d4fd7c62c5db7c27f9b8acee6b295c1997867a44b0a368e6c1571",
+      "bytes": 89317
+    },
+    {
+      "original": "assets/illustrations/cornish-rex--cream--curly.jpg",
+      "deployed": "assets/illustrations/cornish-rex--cream--curly.jpg",
+      "original_sha256": "f781c822b6b1e1ae17d2d5d14cfeab4ebd7c0a0422cba8f9e996be7a94aa0457",
+      "bytes": 60778
+    },
+    {
+      "original": "assets/illustrations/devon-rex--blue-white--curly.jpg",
+      "deployed": "assets/illustrations/devon-rex--blue-white--curly.jpg",
+      "original_sha256": "362b73179ff47fa084c42f9c9874e524c0383cdaf10b31752a7952d6efae25e2",
+      "bytes": 61562
+    },
+    {
+      "original": "assets/illustrations/domestic-longhair--brown-white--long.jpg",
+      "deployed": "assets/illustrations/domestic-longhair--brown-white--long.jpg",
+      "original_sha256": "1f28e40d80098a5fd78b018a8278e25f65b3871ac9cfa7df400bcd0a07645faa",
+      "bytes": 80172
+    },
+    {
+      "original": "assets/illustrations/domestic-shorthair--black--short.jpg",
+      "deployed": "assets/illustrations/domestic-shorthair--black--short.jpg",
+      "original_sha256": "6c3b9eb800470a237325b30c31fe1013761df178fd5b585b7584a966c2b10f87",
+      "bytes": 58408
+    },
+    {
+      "original": "assets/illustrations/domestic-shorthair--black-white--short.jpg",
+      "deployed": "assets/illustrations/domestic-shorthair--black-white--short.jpg",
+      "original_sha256": "2ce3c5f139ad18149b8a233126ebe10305306d6f1d5736fe38956223de0fb086",
+      "bytes": 55454
+    },
+    {
+      "original": "assets/illustrations/domestic-shorthair--brown-tabby--short.jpg",
+      "deployed": "assets/illustrations/domestic-shorthair--brown-tabby--short.jpg",
+      "original_sha256": "1b37f62773cb27774e74ccb36bb95b30d320e3c761e4c4abe67381a799e720e7",
+      "bytes": 84970
+    },
+    {
+      "original": "assets/illustrations/domestic-shorthair--calico--short.jpg",
+      "deployed": "assets/illustrations/domestic-shorthair--calico--short.jpg",
+      "original_sha256": "70205ac83995508b84dd0a5e04d3d7b735568036b0c668cbb8c9cfe84d78f386",
+      "bytes": 68915
+    },
+    {
+      "original": "assets/illustrations/domestic-shorthair--red-tabby--short.jpg",
+      "deployed": "assets/illustrations/domestic-shorthair--red-tabby--short.jpg",
+      "original_sha256": "bb1eeee5ed27ecee62d99e0f96f7e6009f7edf0acc21a6a88dd3c30ea224910c",
+      "bytes": 74503
+    },
+    {
+      "original": "assets/illustrations/domestic-shorthair--white--short.jpg",
+      "deployed": "assets/illustrations/domestic-shorthair--white--short.jpg",
+      "original_sha256": "680cde941c315e416a82b0504e00e8cc5f53c91155bbcef40be40c3181f9aaa8",
+      "bytes": 46067
+    },
+    {
+      "original": "assets/illustrations/egyptian-mau--silver-spotted--short.jpg",
+      "deployed": "assets/illustrations/egyptian-mau--silver-spotted--short.jpg",
+      "original_sha256": "80590d306b6ac94084e8b65c91b196440958b638e07420232b31941eee0202ec",
+      "bytes": 65282
+    },
+    {
+      "original": "assets/illustrations/exotic-shorthair--cream--short.jpg",
+      "deployed": "assets/illustrations/exotic-shorthair--cream--short.jpg",
+      "original_sha256": "939fb63b5db091d71693cf9d64fd4246e53359da98ff07234d546cea73be682a",
+      "bytes": 70480
+    },
+    {
+      "original": "assets/illustrations/havana-brown--chocolate--short.jpg",
+      "deployed": "assets/illustrations/havana-brown--chocolate--short.jpg",
+      "original_sha256": "b6b1d9e565d8d5360afc6d9e258c77fd3de61be5f1a9fc74a4eba772ca03b8e3",
+      "bytes": 72204
+    },
+    {
+      "original": "assets/illustrations/japanese-bobtail--calico--long.jpg",
+      "deployed": "assets/illustrations/japanese-bobtail--calico--long.jpg",
+      "original_sha256": "a34c1ebbde78c2354a97f989c60f8fb1dd529f785a83d525f317dbe2077c4243",
+      "bytes": 65827
+    },
+    {
+      "original": "assets/illustrations/japanese-bobtail--calico--short.jpg",
+      "deployed": "assets/illustrations/japanese-bobtail--calico--short.jpg",
+      "original_sha256": "3600f363d404f6043c76be811e56ff79f4a381d7b7def445fb626288672702a8",
+      "bytes": 56319
+    },
+    {
+      "original": "assets/illustrations/khao-manee--white--short.jpg",
+      "deployed": "assets/illustrations/khao-manee--white--short.jpg",
+      "original_sha256": "43685cdeb23fa6b721a7a9381319d690a705d833da5ea99f2fa51adc887bfdca",
+      "bytes": 49819
+    },
+    {
+      "original": "assets/illustrations/korat--blue--short.jpg",
+      "deployed": "assets/illustrations/korat--blue--short.jpg",
+      "original_sha256": "cb228b2bab6f51f1dd8227b25565e5014bb256fcf6aada2107e6217a1829ba07",
+      "bytes": 76903
+    },
+    {
+      "original": "assets/illustrations/laperm--brown-tabby--long.jpg",
+      "deployed": "assets/illustrations/laperm--brown-tabby--long.jpg",
+      "original_sha256": "5bf182fab36df72b0882ef4bfe609248d8c1399aa1771854f71f6eec42866f59",
+      "bytes": 95026
+    },
+    {
+      "original": "assets/illustrations/laperm--brown-tabby--short.jpg",
+      "deployed": "assets/illustrations/laperm--brown-tabby--short.jpg",
+      "original_sha256": "4dba693a9f1be1493dcbef1f78c8c36caedb39f1bf96cb8fc9d5a5c71f9e695e",
+      "bytes": 90937
+    },
+    {
+      "original": "assets/illustrations/maine-coon--black-smoke--long.jpg",
+      "deployed": "assets/illustrations/maine-coon--black-smoke--long.jpg",
+      "original_sha256": "6e5c0f5400e9a31c123022422f341fc55a0ad8f596824ba841a11defcc29c952",
+      "bytes": 74554
+    },
+    {
+      "original": "assets/illustrations/maine-coon--brown-tabby--long.jpg",
+      "deployed": "assets/illustrations/maine-coon--brown-tabby--long.jpg",
+      "original_sha256": "b64b2c6af396571bc4188511e7f933b93584bba82074d6ccb8914925cf7e7189",
+      "bytes": 89133
+    },
+    {
+      "original": "assets/illustrations/manx--brown-white--short.jpg",
+      "deployed": "assets/illustrations/manx--brown-white--short.jpg",
+      "original_sha256": "41e3ca8545659204a65e4c72fed63342cafff670be49f4be619034f2ff215a2f",
+      "bytes": 82055
+    },
+    {
+      "original": "assets/illustrations/munchkin--red-white--short.jpg",
+      "deployed": "assets/illustrations/munchkin--red-white--short.jpg",
+      "original_sha256": "b7785db99821c4edbc90d27acb4cfb99fd31df0882fb1d494a91c67006a34383",
+      "bytes": 73497
+    },
+    {
+      "original": "assets/illustrations/nebelung--blue--long.jpg",
+      "deployed": "assets/illustrations/nebelung--blue--long.jpg",
+      "original_sha256": "6bf3d7ea02535879073fa85b18db8cc094abb59526dd74783541a6763eac2e42",
+      "bytes": 65973
+    },
+    {
+      "original": "assets/illustrations/norwegian-forest--brown-white--long.jpg",
+      "deployed": "assets/illustrations/norwegian-forest--brown-white--long.jpg",
+      "original_sha256": "59f4c407d33f6127d1cc22cdeef3b5ed880fdaacd08ba9989e8ddaa8dcf453d8",
+      "bytes": 83093
+    },
+    {
+      "original": "assets/illustrations/ocicat--tawny-spotted--short.jpg",
+      "deployed": "assets/illustrations/ocicat--tawny-spotted--short.jpg",
+      "original_sha256": "7a5aada10b638f41de5cb4780d3fc72261a5ad1ae2e694ba077951622074a83f",
+      "bytes": 78692
+    },
+    {
+      "original": "assets/illustrations/oriental-shorthair--black--short.jpg",
+      "deployed": "assets/illustrations/oriental-shorthair--black--short.jpg",
+      "original_sha256": "88614b6cbdeeb3114802e78d5c0abd79d6112a6e3865725dd9a8646c4f820b2c",
+      "bytes": 52965
+    },
+    {
+      "original": "assets/illustrations/persian--blue--long.jpg",
+      "deployed": "assets/illustrations/persian--blue--long.jpg",
+      "original_sha256": "d9500148e277efa5db6db29f7fd827b04e4f832b94ac5afea4502081497fa23a",
+      "bytes": 67525
+    },
+    {
+      "original": "assets/illustrations/persian--red-tabby--long.jpg",
+      "deployed": "assets/illustrations/persian--red-tabby--long.jpg",
+      "original_sha256": "2e7744639c9594cc2859f7d80d90781126c487952226d0b317e1ee4e8006cbc6",
+      "bytes": 91041
+    },
+    {
+      "original": "assets/illustrations/persian--white--long.jpg",
+      "deployed": "assets/illustrations/persian--white--long.jpg",
+      "original_sha256": "e0469853fb466e7c82d74cf6548ed94abfc8a7c33f331a28e788676930ae422e",
+      "bytes": 48171
+    },
+    {
+      "original": "assets/illustrations/ragdoll--blue-bicolor--long.jpg",
+      "deployed": "assets/illustrations/ragdoll--blue-bicolor--long.jpg",
+      "original_sha256": "80f7caae36075fe5f03ed5a6482a915b3737c016f9a5f2d873eb248dc1e5a5a7",
+      "bytes": 54488
+    },
+    {
+      "original": "assets/illustrations/ragdoll--seal-bicolor--long.jpg",
+      "deployed": "assets/illustrations/ragdoll--seal-bicolor--long.jpg",
+      "original_sha256": "9d0175ef397ab25390135074a3cdafe929c9db095585c1afde75826640e1ff64",
+      "bytes": 60521
+    },
+    {
+      "original": "assets/illustrations/ragdoll--seal-mitted--long.jpg",
+      "deployed": "assets/illustrations/ragdoll--seal-mitted--long.jpg",
+      "original_sha256": "cfa4361f3ee4cfebe7e12c9c76a0f584691c3af5c91a4d5b74d0a40fb0454f0f",
+      "bytes": 65491
+    },
+    {
+      "original": "assets/illustrations/russian-blue--blue--short.jpg",
+      "deployed": "assets/illustrations/russian-blue--blue--short.jpg",
+      "original_sha256": "496ec056a5dfd9bb36ddc74a0f4ef4eeb1ee01565395394492b31a3d77f5a342",
+      "bytes": 61684
+    },
+    {
+      "original": "assets/illustrations/savannah--brown-spotted--short.jpg",
+      "deployed": "assets/illustrations/savannah--brown-spotted--short.jpg",
+      "original_sha256": "4dabcfa0c68b691c2ed3ae5516499607b6be6b72cd051031a83d92bc38c5e9ea",
+      "bytes": 79199
+    },
+    {
+      "original": "assets/illustrations/scottish-fold--blue--short.jpg",
+      "deployed": "assets/illustrations/scottish-fold--blue--short.jpg",
+      "original_sha256": "3c2305d829c81170bf44ebd0d00e9fc498b67f26bed6be3bb9233615ba7a0db0",
+      "bytes": 76994
+    },
+    {
+      "original": "assets/illustrations/selkirk-rex--blue--long.jpg",
+      "deployed": "assets/illustrations/selkirk-rex--blue--long.jpg",
+      "original_sha256": "da0679fc84be05b646ada3d7cd88b6a4e8c9493e7c8523518673d66be63598a3",
+      "bytes": 86993
+    },
+    {
+      "original": "assets/illustrations/selkirk-rex--blue--short.jpg",
+      "deployed": "assets/illustrations/selkirk-rex--blue--short.jpg",
+      "original_sha256": "50a944982128c15ff2a6ac1c426b8b9a9d2155d67eacc30eb54143dfbe717c9c",
+      "bytes": 85377
+    },
+    {
+      "original": "assets/illustrations/sheet-01-original.png",
+      "deployed": "assets/illustrations/sheet-01-original.png.webp",
+      "original_sha256": "0f23e6846ade2c0ba44f4dd9491474c2339bfa64f340ce4530ed91d10fdca04e",
+      "bytes": 153832
+    },
+    {
+      "original": "assets/illustrations/sheet-02-original.png",
+      "deployed": "assets/illustrations/sheet-02-original.png.webp",
+      "original_sha256": "895df77b16ab1d29439679ffa80f677cb0f791e5ba56ac1ff9819693b0b3b0df",
+      "bytes": 192956
+    },
+    {
+      "original": "assets/illustrations/sheet-03-original.png",
+      "deployed": "assets/illustrations/sheet-03-original.png.webp",
+      "original_sha256": "f9ff86851cdb6a600f4eabe370a88a5ddd0e75204eb62c32e13eca0dc4153515",
+      "bytes": 191530
+    },
+    {
+      "original": "assets/illustrations/sheet-04-original.png",
+      "deployed": "assets/illustrations/sheet-04-original.png.webp",
+      "original_sha256": "f84ec3d8733505ef495a065e7d0c23b84e50f8391fe989da900659d74ad11576",
+      "bytes": 139926
+    },
+    {
+      "original": "assets/illustrations/sheet-05-original.png",
+      "deployed": "assets/illustrations/sheet-05-original.png.webp",
+      "original_sha256": "ff018b9cd3cf547dc60dbc0974c42c3d6db9903abb0fa113aaf192e8aec0d270",
+      "bytes": 187494
+    },
+    {
+      "original": "assets/illustrations/sheet-06-original.png",
+      "deployed": "assets/illustrations/sheet-06-original.png.webp",
+      "original_sha256": "cea913a5423f3b965276adff52d7cc6667efc1e18f3add2d26fc34c827a7045c",
+      "bytes": 183770
+    },
+    {
+      "original": "assets/illustrations/sheet-07-original.png",
+      "deployed": "assets/illustrations/sheet-07-original.png.webp",
+      "original_sha256": "65360723f4d28140a3ae5de5093cbdb3f694d0f8e7e3aed0646c6e40e7881ebe",
+      "bytes": 197550
+    },
+    {
+      "original": "assets/illustrations/sheet-08-original.png",
+      "deployed": "assets/illustrations/sheet-08-original.png.webp",
+      "original_sha256": "c8f1ec07d77b55a0ed040b76e8e5e9ce85a2d42c5e11d1e3af547007bd84a5ef",
+      "bytes": 221146
+    },
+    {
+      "original": "assets/illustrations/sheet-09-original.png",
+      "deployed": "assets/illustrations/sheet-09-original.png.webp",
+      "original_sha256": "a47b824815f6e01d4fb31627aa9646063c1d7689ac83f10542c448bf67027ff7",
+      "bytes": 149686
+    },
+    {
+      "original": "assets/illustrations/sheet-10-original.png",
+      "deployed": "assets/illustrations/sheet-10-original.png.webp",
+      "original_sha256": "4f05745d983eb0724d1734996fd328590d3862728d4c8e2923f28b83f001a38d",
+      "bytes": 154616
+    },
+    {
+      "original": "assets/illustrations/sheet-11-original.png",
+      "deployed": "assets/illustrations/sheet-11-original.png.webp",
+      "original_sha256": "996c8c6077e7df00de073968e71818ed0fb8aeb2990e503d157cd542538b6c0e",
+      "bytes": 196616
+    },
+    {
+      "original": "assets/illustrations/sheet-12-original.png",
+      "deployed": "assets/illustrations/sheet-12-original.png.webp",
+      "original_sha256": "c8b4010866ac892bcee7e574010e5da54bed4028bf440389b04ceac770fc7d82",
+      "bytes": 215050
+    },
+    {
+      "original": "assets/illustrations/siamese--blue-point--short.jpg",
+      "deployed": "assets/illustrations/siamese--blue-point--short.jpg",
+      "original_sha256": "2d759e8be78b60240feacafb1665a620f81109a8c55127e37a23442b76597dad",
+      "bytes": 52356
+    },
+    {
+      "original": "assets/illustrations/siamese--seal-point--short.jpg",
+      "deployed": "assets/illustrations/siamese--seal-point--short.jpg",
+      "original_sha256": "63ca258587b434dfc53be8a92b356a3691a725c517893d39ee9be5d052246bb3",
+      "bytes": 54640
+    },
+    {
+      "original": "assets/illustrations/siberian--brown-tabby--long.jpg",
+      "deployed": "assets/illustrations/siberian--brown-tabby--long.jpg",
+      "original_sha256": "981f1da0c9ebaaaee5250f16ee208ab376202a543e0aa93865aae38b803028f0",
+      "bytes": 94577
+    },
+    {
+      "original": "assets/illustrations/siberian--seal-point--long.jpg",
+      "deployed": "assets/illustrations/siberian--seal-point--long.jpg",
+      "original_sha256": "6771bdc6ff14762b1c65af5923afacff63a6978cba858b1d5f552fb5c2d1913b",
+      "bytes": 79961
+    },
+    {
+      "original": "assets/illustrations/singapura--sepia-agouti--short.jpg",
+      "deployed": "assets/illustrations/singapura--sepia-agouti--short.jpg",
+      "original_sha256": "0d0ff6fff507e53c1b3b672227e64b5b076a15db6205f38fca288390e75ae2a3",
+      "bytes": 68249
+    },
+    {
+      "original": "assets/illustrations/snowshoe--seal-bicolor--short.jpg",
+      "deployed": "assets/illustrations/snowshoe--seal-bicolor--short.jpg",
+      "original_sha256": "ab757d1e154657e5c421a91d1ecda0f62fc033d911ab7111e1f111edb750ba9a",
+      "bytes": 73407
+    },
+    {
+      "original": "assets/illustrations/somali--ruddy--long.jpg",
+      "deployed": "assets/illustrations/somali--ruddy--long.jpg",
+      "original_sha256": "e96098fda74b9f8eca65ac9b7a99709b29dd3f2c647a44c02d5e6e900666e70c",
+      "bytes": 91687
+    },
+    {
+      "original": "assets/illustrations/sphynx--pink-gray--hairless.jpg",
+      "deployed": "assets/illustrations/sphynx--pink-gray--hairless.jpg",
+      "original_sha256": "73f70e308275998660a5588b24b953790ed690a51c64b8d40df66192e6a805e3",
+      "bytes": 66597
+    },
+    {
+      "original": "assets/illustrations/style-sheet.jpg",
+      "deployed": "assets/illustrations/style-sheet.jpg.webp",
+      "original_sha256": "23fb7ae6564dbbfcf1c1d1131db4829892502c6966f17d190e7bd4cd79d0ffb5",
+      "bytes": 157442
+    },
+    {
+      "original": "assets/illustrations/tonkinese--natural-mink--short.jpg",
+      "deployed": "assets/illustrations/tonkinese--natural-mink--short.jpg",
+      "original_sha256": "afafac29283c106aa2fe31fb2c20ee329d485a3c26bf2b49fbe11b8a26ff6dd2",
+      "bytes": 72234
+    },
+    {
+      "original": "assets/illustrations/toyger--brown-mackerel--short.jpg",
+      "deployed": "assets/illustrations/toyger--brown-mackerel--short.jpg",
+      "original_sha256": "1fa1d4a93d1c0ab751992a6ca58aee420296b2f74b80c25d783d4cf533388469",
+      "bytes": 94641
+    },
+    {
+      "original": "assets/illustrations/turkish-angora--white--long.jpg",
+      "deployed": "assets/illustrations/turkish-angora--white--long.jpg",
+      "original_sha256": "0fc29517fd81d73332ac07e74d01480a32a3c731c7d93cdbc7bf47896ff9374c",
+      "bytes": 48295
+    },
+    {
+      "original": "assets/illustrations/turkish-van--red-van--long.jpg",
+      "deployed": "assets/illustrations/turkish-van--red-van--long.jpg",
+      "original_sha256": "15f05763c4c4ef3202634a3020013a9180c388023d7d2e82f2d9e0adb808b683",
+      "bytes": 60400
+    },
+    {
+      "original": "assets/splash-icon.png",
+      "deployed": "assets/splash-icon.png.webp",
+      "original_sha256": "b0af69b049e3439d6d98908b1bb3fc02435aea2ad924849b37467d61e83d65fa",
+      "bytes": 7666
+    }
+  ]
+}

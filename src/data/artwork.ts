@@ -8,7 +8,7 @@ export type ArtStyle = typeof approvedArtStyle;
 export const approvedArtwork = {
   key: approvedArtStyle,
   name: '柔和立体',
-  image: require('../../assets/illustrations/style-sheet.jpg'),
+  image: require('../../assets/illustrations/style-sheet.jpg.webp'),
 };
 
 export function generatedArtwork(breedId: string, color?: string, form?: string): number | undefined {
